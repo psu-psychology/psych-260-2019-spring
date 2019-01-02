@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-*[W&B](https://2e.mindsmachine.com/) refers to the Watson & Breedlove text. Assignments are given in chapter:pages format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
+*[B&W](http://behavioralneuroscience8e.com/) refers to the Breedlove & Watson text. Assignments are given in chapter:pages format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
 
 ## Week 1, January 7 - 11
 
@@ -13,7 +13,7 @@ title: "Schedule"
     - What is a system?
     - History of neuroscience
 - Assignments
-    - Read: [W&B](https://2e.mindsmachine.com/) 1:2-19.
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 1:2-19.
     - Review: <https://en.wikipedia.org/wiki/Systems_theory>
     - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
     - Scan: <https://faculty.washington.edu/chudler/hist.html>
@@ -26,7 +26,7 @@ title: "Schedule"
     - Levels of analysis
     - Neuroscience methods I
 - Assignments
-    - Read: [W&B](https://2e.mindsmachine.com/) 2:24, 26, 44-49, 3:53, 70-76.
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 1:1-21; 2:51-57; 3:88-92.
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
@@ -43,6 +43,7 @@ title: "Schedule"
 - Topics
     - Neuroscience methods II.
 - Assignments
+    - Read: [B&W](http://behavioralneuroscience8e.com/) 2:51-57; 3:88-92.
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 <!-- - Materials -->
@@ -53,7 +54,7 @@ title: "Schedule"
 - Topics
     - Neuroanatomy I
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -66,8 +67,7 @@ title: "Schedule"
 - Topics
     - Neuroanatomy II
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
-    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51.
 <!-- - Materials  -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -85,10 +85,10 @@ title: "Schedule"
 
 - Topics
     - Cells of the nervous system
-    - How nerve cells compute
+    - How nerve cells compute (Neurophysiology I)
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
-    - Read [W&B](https://2e.mindsmachine.com/) 3:50-55.
+    - Read [B&W](http://behavioralneuroscience8e.com/): 2:25-35.
+    - Read [B&W](http://behavioralneuroscience8e.com/): 3:61-66.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -97,8 +97,8 @@ title: "Schedule"
 - Topics
     - Neurophysiology II
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
-    - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
+    - Read: [B&W](http://behavioralneuroscience8e.com/): 3:66-87.
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
  <!-- - Materials -->
  <!--    - Lecture notes. | [HTML slides]() | -->
    
@@ -112,7 +112,7 @@ title: "Schedule"
     - Neurophysiology III
     - Exam 1 Review
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
+    <!-- - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69 -->
  <!-- - Materials -->
  <!--    - Lecture notes. | [HTML slides]() | -->
 
@@ -130,7 +130,8 @@ title: "Schedule"
 - Topics
     - Neurochemistry I
 - Assignments
-    -  Read [W&B](https://2e.mindsmachine.com/) 4:82-86
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85.
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -140,8 +141,8 @@ title: "Schedule"
     - Neurochemistry II
     - Hormones and the brain
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 4:82-86
-    - Read [W&B](https://2e.mindsmachine.com/) 8:208-226
+    - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -163,7 +164,8 @@ title: "Schedule"
 - Topics
     - Evolution of the human brain.
 - Assignments
-    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+    <!-- - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015). -->
+    - Read [B&W](http://behavioralneuroscience8e.com/) 6:163-191.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -176,6 +178,8 @@ title: "Schedule"
 - Topics
     - Development of the brain
     - Review for Exam 2
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 7:193-210.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -199,8 +203,7 @@ title: "Schedule"
 - Topic
     - Psychopathology I: Depression & Bipolar disorder
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
-    - Read [W&B](https://2e.mindsmachine.com/) 12:358-359.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 16:514-523.
 <!-- - Materials -->
 <!--     - Lecture notes. -->
     
@@ -208,7 +211,7 @@ title: "Schedule"
 
 - Psychopathology II: Schizophrenia.
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 16:499-514.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -223,7 +226,7 @@ title: "Schedule"
     - Happiness & reward
     - Fear & stress
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 11:310-336
+    - Read [B&W](http://behavioralneuroscience8e.com/) 15:467-485; 15:488-497.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -244,8 +247,7 @@ title: "Schedule"
     - Somatosensation
     - Pain
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 5:110-121
-    - Read [W&B](https://2e.mindsmachine.com/) 5:121-126; 6:162-164
+    - Read [B&W](http://behavioralneuroscience8e.com/) 8:229-262.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -255,7 +257,7 @@ title: "Schedule"
     - Action
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
-    - Read [W&B](https://2e.mindsmachine.com/) 5:126-143
+    - Read [B&W](http://behavioralneuroscience8e.com/) 11:337-347.
 - Materials
     - Lecture notes. | [HTML slides]() |
    
@@ -267,6 +269,8 @@ title: "Schedule"
 
 - Topics
     - Action II
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 11:347-368.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -274,7 +278,7 @@ title: "Schedule"
 
 - Vision
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 7:174-185.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 10:301-321.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -288,7 +292,7 @@ title: "Schedule"
     - Vision II
     - Review for Exam 3.
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 7:185-207.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 10:321-330.
 
 ### Thursday, April 11
 
@@ -304,8 +308,7 @@ title: "Schedule"
 - Topics
     - Learning & memory
 - Assignments
-    - Read 13:368-383
-    - Read 13:368-383-393
+    - Read [B&W](http://behavioralneuroscience8e.com/) 17:535-552.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-27-vision-II.pdf) | -->
@@ -316,6 +319,8 @@ title: "Schedule"
     - Learning & memory II
     - **Quiz 4**.
     - Exam 3 returned.
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 17:552-565.
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
