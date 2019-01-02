@@ -1,0 +1,341 @@
+---
+title: "Schedule"
+---
+
+*[W&B](https://2e.mindsmachine.com/) refers to the Watson & Breedlove text. Assignments are given in chapter:pages format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
+
+## Week 1, January 7 - 11
+
+### Tuesday, January 8
+
+- Topics
+    - Introduction to the course
+    - What is a system?
+    - History of neuroscience
+- Assignments
+    - Read: [W&B](https://2e.mindsmachine.com/) 1:2-19.
+    - Review: <https://en.wikipedia.org/wiki/Systems_theory>
+    - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
+<!-- - Materials -->
+<!--     - Lecture notes | [HTML slides]() | -->
+
+### Thursday, January 10
+
+- Topics
+    - Levels of analysis
+    - Neuroscience methods I
+- Assignments
+    - Read: [W&B](https://2e.mindsmachine.com/) 2:24, 26, 44-49, 3:53, 70-76.
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional:
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
+        - [Powers of Ten](https://www.youtube.com/embed/0fKBhvDjuy0)
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 2, January 14 - 18
+
+### Tuesday, January 15
+
+- Topics
+    - Neuroscience methods II.
+- Assignments
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, January 17
+
+- Topics
+    - Neuroanatomy I
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 3, January 21 - 25
+
+### Tuesday, January 22
+
+- Topics
+    - Neuroanatomy II
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
+    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
+<!-- - Materials  -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, January 24
+
+- Topics
+    - Neuroanatomy III
+    - **Quiz 1**
+
+---
+
+## Week 4, January 28 - February 1
+
+### Tuesday, January 29
+
+- Topics
+    - Cells of the nervous system
+    - How nerve cells compute
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
+    - Read [W&B](https://2e.mindsmachine.com/) 3:50-55.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, January 31
+
+- Topics
+    - Neurophysiology II
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
+    - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
+ <!-- - Materials -->
+ <!--    - Lecture notes. | [HTML slides]() | -->
+   
+---
+
+## Week 5, February 4 - 8
+
+### Tuesday, February 5
+
+- Topics
+    - Neurophysiology III
+    - Exam 1 Review
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
+ <!-- - Materials -->
+ <!--    - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, February 7
+
+- Topics
+    - **Exam 1**.
+
+---
+
+## Week 6, February 11 - 15
+
+### Tuesday, February 12
+
+- Topics
+    - Neurochemistry I
+- Assignments
+    -  Read [W&B](https://2e.mindsmachine.com/) 4:82-86
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, February 14
+
+- Topics
+    - Neurochemistry II
+    - Hormones and the brain
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 4:82-86
+    - Read [W&B](https://2e.mindsmachine.com/) 8:208-226
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 7, February 18 - 22
+
+### Tuesday, February 19
+
+- Topics
+    - **Quiz 2**. 
+    - Exam 1 returned.
+    - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, February 21
+
+- Topics
+    - Evolution of the human brain.
+- Assignments
+    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+    
+## Week 8, February 25 - March 1
+
+### Tuesday, February 26
+
+- Topics
+    - Development of the brain
+    - Review for Exam 2
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, February 28
+
+- Topics
+    - **Exam  2**.
+
+---
+
+## Spring Break, March 4 - 8
+
+**NO CLASSES**
+
+---
+
+## Week 9, March 11 - 15
+
+### Tuesday, March 12
+
+- Topic
+    - Psychopathology I: Depression & Bipolar disorder
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:358-359.
+<!-- - Materials -->
+<!--     - Lecture notes. -->
+    
+### Thursday, March 14
+
+- Psychopathology II: Schizophrenia.
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 10, March 18 - 22
+
+#### Tuesday, March 19
+
+- Topics
+    - Emotion
+    - Happiness & reward
+    - Fear & stress
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 11:310-336
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, March 21
+
+- Topics
+    - **Quiz 3**.
+    - Exam 2 returned.
+
+---
+
+## Week 11, March 25 - 29
+
+### Tuesday, March 26
+
+- Topics
+    - Sensory systems
+    - Somatosensation
+    - Pain
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 5:110-121
+    - Read [W&B](https://2e.mindsmachine.com/) 5:121-126; 6:162-164
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, March 28
+
+- Topics
+    - Action
+- Assignments
+    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - Read [W&B](https://2e.mindsmachine.com/) 5:126-143
+- Materials
+    - Lecture notes. | [HTML slides]() |
+   
+---
+
+## Week 12, April 1 - 5
+
+### Tuesday, April 2
+
+- Topics
+    - Action II
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+### Thursday, April 4
+
+- Vision
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 7:174-185.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 13, April 8 - 12
+
+### Tuesday, April 9
+
+- Topics
+    - Vision II
+    - Review for Exam 3.
+- Assignments
+    - Read [W&B](https://2e.mindsmachine.com/) 7:185-207.
+
+### Thursday, April 11
+
+- Topics
+    - **Exam 3**.
+
+---
+
+## Week 14, April 15 - 19
+
+### Tuesday, April 16
+
+- Topics
+    - Learning & memory
+- Assignments
+    - Read 13:368-383
+    - Read 13:368-383-393
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-27-vision-II.pdf) | -->
+
+### Thursday, April 18
+
+- Topics
+    - Learning & memory II
+    - **Quiz 4**.
+    - Exam 3 returned.
+<!-- - Materials -->
+<!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+
+## Week 15, April 22 - 26
+
+### Tuesday, April 23
+
+- Topics
+    - The Cerebral Symphony
+    - Speed of nervous system conduction lab
+
+### Thursday, April 25
+
+- Topics
+    - Review for Exam 4
+
+---
+    
+## Finals Week, April 29 - May 3
+
+**Final Exam (Exam 4) TBA**

@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Schedule</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSYCH 260.001</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="evaluation.html">Evaluation</a>
+</li>
+<li>
+  <a href="deadlines.html">Deadlines</a>
+</li>
+<li>
+  <a href="policies.html">Policies</a>
+</li>
+<li>
+  <a href="blogs.html">Blogs</a>
+</li>
+<li>
+  <a href="talks.html">News</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Schedule</h1>
+
+</div>
+
+
+<p><em><a href="https://2e.mindsmachine.com/">W&amp;B</a> refers to the Watson &amp; Breedlove text. Assignments are given in chapter:pages format, e.g., 1:2-19 means read Chapter 1, pages 2-19.</em></p>
+<div id="week-1-january-7---11" class="section level2">
+<h2>Week 1, January 7 - 11</h2>
+<div id="tuesday-january-8" class="section level3">
+<h3>Tuesday, January 8</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Introduction to the course</li>
+<li>What is a system?</li>
+<li>History of neuroscience</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read: <a href="https://2e.mindsmachine.com/">W&amp;B</a> 1:2-19.</li>
+<li>Review: <a href="https://en.wikipedia.org/wiki/Systems_theory" class="uri">https://en.wikipedia.org/wiki/Systems_theory</a></li>
+<li>Review: <a href="http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html" class="uri">http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html</a>.</li>
+<li>Scan: <a href="https://faculty.washington.edu/chudler/hist.html" class="uri">https://faculty.washington.edu/chudler/hist.html</a> <!-- - Materials --> <!--     - Lecture notes | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-january-10" class="section level3">
+<h3>Thursday, January 10</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Levels of analysis</li>
+<li>Neuroscience methods I</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read: <a href="https://2e.mindsmachine.com/">W&amp;B</a> 2:24, 26, 44-49, 3:53, 70-76.</li>
+<li>Watch: <a href="https://youtu.be/nvXuq9jRWKE">Beautiful 3-D Brain Scans Show Every Synapse</a></li>
+<li>Optional:
+<ul>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/16146688">Grillner, Kozlov, Kotaleski (2005)</a></li>
+<li><a href="https://www.youtube.com/embed/0fKBhvDjuy0">Powers of Ten</a> <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-2-january-14---18" class="section level2">
+<h2>Week 2, January 14 - 18</h2>
+<div id="tuesday-january-15" class="section level3">
+<h3>Tuesday, January 15</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neuroscience methods II.</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Watch: <a href="https://youtu.be/MiL0wCZr0Mw">Magnetic Resonance Imaging Explained</a></li>
+<li>Optional: <a href="https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods" class="uri">https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods</a>. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-january-17" class="section level3">
+<h3>Thursday, January 17</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neuroanatomy I</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a>: 2:30-43. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-3-january-21---25" class="section level2">
+<h2>Week 3, January 21 - 25</h2>
+<div id="tuesday-january-22" class="section level3">
+<h3>Tuesday, January 22</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neuroanatomy II</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a>: 2:30-43.</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a>: 2:20-29. <!-- - Materials  --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-january-24" class="section level3">
+<h3>Thursday, January 24</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neuroanatomy III</li>
+<li><strong>Quiz 1</strong></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-4-january-28---february-1" class="section level2">
+<h2>Week 4, January 28 - February 1</h2>
+<div id="tuesday-january-29" class="section level3">
+<h3>Tuesday, January 29</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Cells of the nervous system</li>
+<li>How nerve cells compute</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a>: 2:20-29.</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 3:50-55. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-january-31" class="section level3">
+<h3>Thursday, January 31</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neurophysiology II</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 3:55-59.</li>
+<li>Watch <a href="https://www.youtube.com/embed/PtKAeihnbv0" class="uri">https://www.youtube.com/embed/PtKAeihnbv0</a> <!-- - Materials --> <!--    - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-5-february-4---8" class="section level2">
+<h2>Week 5, February 4 - 8</h2>
+<div id="tuesday-february-5" class="section level3">
+<h3>Tuesday, February 5</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neurophysiology III</li>
+<li>Exam 1 Review</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 3:59-69 <!-- - Materials --> <!--    - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-february-7" class="section level3">
+<h3>Thursday, February 7</h3>
+<ul>
+<li>Topics
+<ul>
+<li><strong>Exam 1</strong>.</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-6-february-11---15" class="section level2">
+<h2>Week 6, February 11 - 15</h2>
+<div id="tuesday-february-12" class="section level3">
+<h3>Tuesday, February 12</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neurochemistry I</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 4:82-86 <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-february-14" class="section level3">
+<h3>Thursday, February 14</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Neurochemistry II</li>
+<li>Hormones and the brain</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 4:82-86</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 8:208-226 <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-7-february-18---22" class="section level2">
+<h2>Week 7, February 18 - 22</h2>
+<div id="tuesday-february-19" class="section level3">
+<h3>Tuesday, February 19</h3>
+<ul>
+<li>Topics
+<ul>
+<li><strong>Quiz 2</strong>.</li>
+<li>Exam 1 returned.</li>
+<li><strong>Blog post 1 (of 3) due</strong>. | <a href="blog-assignment.html">Assignment details</a> | <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-february-21" class="section level3">
+<h3>Thursday, February 21</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Evolution of the human brain.</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="http://www.frontiersin.org/Journal/Abstract.aspx?s=742&amp;name=neuroanatomy&amp;ART_DOI=10.3389/fnana.2014.00015">Hofman 2014</a>. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-8-february-25---march-1" class="section level2">
+<h2>Week 8, February 25 - March 1</h2>
+<div id="tuesday-february-26" class="section level3">
+<h3>Tuesday, February 26</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Development of the brain</li>
+<li>Review for Exam 2 <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-february-28" class="section level3">
+<h3>Thursday, February 28</h3>
+<ul>
+<li>Topics
+<ul>
+<li><strong>Exam 2</strong>.</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="spring-break-march-4---8" class="section level2">
+<h2>Spring Break, March 4 - 8</h2>
+<p><strong>NO CLASSES</strong></p>
+<hr />
+</div>
+<div id="week-9-march-11---15" class="section level2">
+<h2>Week 9, March 11 - 15</h2>
+<div id="tuesday-march-12" class="section level3">
+<h3>Tuesday, March 12</h3>
+<ul>
+<li>Topic
+<ul>
+<li>Psychopathology I: Depression &amp; Bipolar disorder</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 12:352-358.</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 12:358-359. <!-- - Materials --> <!--     - Lecture notes. --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-march-14" class="section level3">
+<h3>Thursday, March 14</h3>
+<ul>
+<li>Psychopathology II: Schizophrenia.</li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 12:338-352. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-10-march-18---22" class="section level2">
+<h2>Week 10, March 18 - 22</h2>
+<div id="tuesday-march-19" class="section level4">
+<h4>Tuesday, March 19</h4>
+<ul>
+<li>Topics
+<ul>
+<li>Emotion</li>
+<li>Happiness &amp; reward</li>
+<li>Fear &amp; stress</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 11:310-336 <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-march-21" class="section level3">
+<h3>Thursday, March 21</h3>
+<ul>
+<li>Topics
+<ul>
+<li><strong>Quiz 3</strong>.</li>
+<li>Exam 2 returned.</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-11-march-25---29" class="section level2">
+<h2>Week 11, March 25 - 29</h2>
+<div id="tuesday-march-26" class="section level3">
+<h3>Tuesday, March 26</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Sensory systems</li>
+<li>Somatosensation</li>
+<li>Pain</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 5:110-121</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 5:121-126; 6:162-164 <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-march-28" class="section level3">
+<h3>Thursday, March 28</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Action</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li><strong>Blog post #2 (of 3) due</strong>. | <a href="blog-assignment.html">Assignment details</a> |</li>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 5:126-143</li>
+</ul></li>
+<li>Materials
+<ul>
+<li>Lecture notes. | <a href="">HTML slides</a> |</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-12-april-1---5" class="section level2">
+<h2>Week 12, April 1 - 5</h2>
+<div id="tuesday-april-2" class="section level3">
+<h3>Tuesday, April 2</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Action II <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-april-4" class="section level3">
+<h3>Thursday, April 4</h3>
+<ul>
+<li>Vision</li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 7:174-185. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-13-april-8---12" class="section level2">
+<h2>Week 13, April 8 - 12</h2>
+<div id="tuesday-april-9" class="section level3">
+<h3>Tuesday, April 9</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Vision II</li>
+<li>Review for Exam 3.</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read <a href="https://2e.mindsmachine.com/">W&amp;B</a> 7:185-207.</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-april-11" class="section level3">
+<h3>Thursday, April 11</h3>
+<ul>
+<li>Topics
+<ul>
+<li><strong>Exam 3</strong>.</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-14-april-15---19" class="section level2">
+<h2>Week 14, April 15 - 19</h2>
+<div id="tuesday-april-16" class="section level3">
+<h3>Tuesday, April 16</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Learning &amp; memory</li>
+</ul></li>
+<li>Assignments
+<ul>
+<li>Read 13:368-383</li>
+<li>Read 13:368-383-393</li>
+</ul></li>
+<li><strong>Papers or blog post #3 (of 3) due</strong>. | <a href="blog-assignment.html">Blog assignment details</a> | <a href="paper-assignment.html">Paper assignment details</a> | <!-- - Materials --> <!--     - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-27-vision-II.pdf) | --></li>
+</ul>
+</div>
+<div id="thursday-april-18" class="section level3">
+<h3>Thursday, April 18</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Learning &amp; memory II</li>
+<li><strong>Quiz 4</strong>.</li>
+<li>Exam 3 returned. <!-- - Materials --> <!--     - Lecture notes. | [HTML slides]() | --></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="week-15-april-22---26" class="section level2">
+<h2>Week 15, April 22 - 26</h2>
+<div id="tuesday-april-23" class="section level3">
+<h3>Tuesday, April 23</h3>
+<ul>
+<li>Topics
+<ul>
+<li>The Cerebral Symphony</li>
+<li>Speed of nervous system conduction lab</li>
+</ul></li>
+</ul>
+</div>
+<div id="thursday-april-25" class="section level3">
+<h3>Thursday, April 25</h3>
+<ul>
+<li>Topics
+<ul>
+<li>Review for Exam 4</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="finals-week-april-29---may-3" class="section level2">
+<h2>Finals Week, April 29 - May 3</h2>
+<p><strong>Final Exam (Exam 4) TBA</strong></p>
+</div>
+
+<p>Copyright &copy; Rick O. Gilmore. All rights reserved.</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
