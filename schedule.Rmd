@@ -336,6 +336,8 @@ title: "Schedule"
 
 ### Thursday, April 25
 
+<!-- Courtney out -->
+
 - Topics
     - Review for Exam 4
 
