@@ -17,8 +17,8 @@ title: "Schedule"
     - Review: <https://en.wikipedia.org/wiki/Systems_theory>
     - Review: <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
     - Scan: <https://faculty.washington.edu/chudler/hist.html>
-<!-- - Materials -->
-<!--     - Lecture notes | [HTML slides]() | -->
+- Materials
+    - Lecture notes | [HTML slides](lectures/2019-01-08-intro.html) |
 
 ### Thursday, January 10
 
