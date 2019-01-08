@@ -104,7 +104,7 @@ Graduate Teaching Assistant</br>
 
 ## Course overview
 
-- <http://psu-psychology.gitbub.io/psych-260-2019-spring/>
+- <http://psu-psychology.github.io/psych-260-2019-spring/>
 
 ## Keys for success
 
