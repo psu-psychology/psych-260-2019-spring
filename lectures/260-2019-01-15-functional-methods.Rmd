@@ -1,0 +1,577 @@
+---
+title: "260-2019-01-15-functional-methods"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude {.smaller}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zdgw4S0GgL8" frameborder="0" allowfullscreen></iframe>
+
+[[@han_integrated_2017]](http://doi.org/10.1016/j.cell.2016.12.027)
+
+## Today's topics
+
+- Warm-up
+- Wrap-up on structural measures
+- Functional measures
+
+# Warm-up
+
+## This cell-staining technique has what kind of *spatial* resolution?
+
+<div class="centered">
+<a href="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
+<img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="450px"/>
+</a>
+</div>
+
+## This cell-staining technique has what kind of *spatial* resolution?
+
+- High/resolves fine details
+- Low/resolves crude details
+
+## This cell-staining technique has what kind of *spatial* resolution?
+
+- **High/resolves fine details**
+- ~~Low/resolves crude details~~
+
+## This cell-staining technique has what kind of *temporal* resolution?
+
+<div class="centered">
+<a href="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
+<img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="450px"/>
+</a>
+</div>
+
+## This cell-staining technique has what kind of *temporal* resolution?
+
+- High/resolves fine details or quickly changing phenomena
+- Low/resolves crude details or slowly changing phenomena
+
+## This cell-staining technique has what kind of *temporal* resolution?
+
+- ~~High/resolves fine details or quickly changing phenomena~~
+- **Low/resolves crude details or slowly changing phenomena**
+
+## Anterograde tracing chemicals are injected in brain tissue in order to answer what question?
+
+- A. What kinds of cells are prominent in a given area?
+- B. The density of dendrites and axons in a given region?
+- C. Where does a target region project to or get input from?
+
+## Anterograde tracing chemicals are injected in brain tissue in order to answer what question?
+
+- ~~A. What kinds of cells are prominent in a given area?~~
+- ~~B. The density of dendrites and axons in a given region?~~
+- **C. Where does a target region project to or get input from?**
+
+# Wrap-up on structural measures
+
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+- Magnetic resonance
+- Some common isotopes (e.g., H) & complex molecules have a magnetic dipole
+- Axes align with strong magnetic field
+- When alignment perturbed by radio frequency (RF) pulse, speed of realignment varies by tissue
+- Realignment emits RF signals
+
+## MRI {.smaller}
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/mri-steps.jpg" height=480px/>
+
+<http://s.hswstatic.com/gif/mri-steps.jpg>
+</div>
+
+## How MRI works
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen></iframe>
+
+## <span class="blue">Structural</span> MRI
+
+- Reveals tissue density/type differences
+- [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
+- MR Spectroscopy
+- Region sizes/volumes
+
+## Structural MRI of the brain
+
+<div class="centered">
+<a href="https://med.nyu.edu/thesenlab/research-0/brain-morphometry/">
+<img src="https://med.nyu.edu/thesenlab/wp-content/uploads/2014/04/mri-296x300.jpg" width=500px>
+</a>
+</div>
+
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+<div class="centered">
+<img src="https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg" width=900px>
+</div>
+
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+- Type of structural MRI
+- Reveals integrity/density of *axon fibers*
+- Measure of connectivity between brain areas
+- (Colors indicate closest-matching 'direction')
+
+## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
+
+- [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
+- Morphometry, measure ("metry") form/morphology.
+- How does brain size or thickness vary by age, disease status, etc.?
+
+## Voxel-based morphometry {.smaller}
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
+
+<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
+</div>
+
+## Colors mean *size* differences
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
+</div>
+
+# Functional methods
+
+## Functional methods
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+- Simulating the brain
+
+## ￼Recording from the brain
+
+- Single/multi unit recording
+    - Microelectrodes
+    - Small numbers of nerve cells
+
+## Single/multi-unit Recording {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg"/>
+
+<http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
+</div>
+
+## Single/multi-unit recording
+
+- What does neuron X respond to?
+- High temporal (ms) & spatial resolution (um)
+- Invasive
+- Rarely suitable for humans, but...
+
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)
+
+<div class="centered">
+<a href="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg">
+<img src="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg" height=450px/>
+</a>
+</div>
+
+---- 
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HluVToAamXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+Story about child who underwent ECoG surgery.
+</div>
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHLBcCv4rqk" frameborder="0" allowfullscreen></iframe>
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+- Radioactive tracers (glucose, oxygen)
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+
+---
+
+<div class="centered">
+<img src="http://www.d.umn.edu/~jfitzake/Lectures/DMED/SpeechLanguage/CorticalS_LAreas/PosnerRaichlePETLanguageAreas.jpg" height=500px>
+</div>
+
+<div class="notes">
+PET can be used to look at differences in brain activation in different, but related tasks.
+</div>
+
+---
+
+<div class="centered">
+<img src="https://www.sciencedaily.com/images/2009/07/090714085812_1_900x600.jpg" width=900px>
+</div>
+
+<div class="notes">
+PET can be used to compare changes in brain metabolism at baseline, across tasks.
+</div>
+
+## Evaluating PET
+
++ Temporal (~ s) and spatial (mm-cm) resolution *worse* than fMRI
++ Radioactive exposures + mildly invasive 
++ Dose < airline crew exposure in 1 yr
+
+## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+
+- Neural activity -> local $O_2$ consumption increase
+- *Blood Oxygen Level Dependent (BOLD) response*
+    + Oxygenated vs. deoxygenated hemoglobin creates magnetic contrast
+    + Do regional blood $O_2$ volumes (and flow) vary with behavior X?
+    
+## fMRI
+
+<div class="centered">
+<a href="http://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg">
+<img src="http://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg" height=500px>
+</a>
+</div>
+
+## fMRI [[@dougherty_visual_2003]](http://doi.org/10.1167/3.10.1)
+
+<div class="centered">
+<a href="http://doi.org/10.1167/3.10.1">
+<img src="img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg" height=500px>
+</a>
+</div>
+
+## Evaluating fMRI
+
++ Non-invasive, but expensive
++ Moderate but improving (mm) spatial, temporal (~sec) resolution
++ **Indirect** measure of brain activity
+- [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
+    + 1s delay plus 3-6 s ramp-up
+
+## [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
+
+<div class="centered">
+<a href="http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png">
+<img src="http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png" width=700px/>
+</a>
+</div>
+
+## [Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography)
+
+- How does it work?
+    - Electrodes on scalp or brain surface
+- What do we measure?
+    - Combined activity of huge # of neurons
+
+## EEG
+
+<div class="centered">
+<a href="https://i.imgur.com/ZrmxJRu.jpg">
+<img src="https://i.imgur.com/ZrmxJRu.jpg" height=500px/>
+</a>
+</div>
+
+## EEG
+
+- High temporal but poor spatial resolution
+- Analyze frequency bands
+    + LOW: deep sleep
+    + MIDDLE: Quiet, alert state
+    + HIGH:“Binding” information across senses
+  
+## EEG Frequency
+
+<div class="centered">
+<a href="https://i.stack.imgur.com/epLsO.png">
+<img src="https://i.stack.imgur.com/epLsO.png" height=500px/>
+</a>
+</div>
+
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)
+
+- EEGs time-locked to some event 
+- Averaged over many trials
+
+## ERPs
+
+<div class="centered">
+<a href="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif">
+<img src="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif" height=500px/>
+</a>
+</div>
+
+## [Brain Computer Interface (BCI)](http://computer.howstuffworks.com/brain-computer-interface.htm) {.smaller}
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/brain-computer-interface-3.gif"/>
+
+<http://s.hswstatic.com/gif/brain-computer-interface-3.gif>
+</div>
+
+## [Magneto-encephalography (MEG)](https://en.wikipedia.org/wiki/Magnetoencephalography)
+
+- Like EEG, but measuring magnetic fields
+- High temporal resolution, low spatial resolution
+- Magnetic field propagates w/o distortion
+
+## MEG
+
+<div class="centered">
+<a href="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg">
+<img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg" height="500px"/>
+</a>
+</div>
+
+## Manipulating the brain
+
+- Nature’s “experiments”
+    + Stroke, head injury, tumor
+    + Neuropsychology
+    + Remember Galen?
+- Logic: damage impairs performance = region critical for behavior
+- Poor spatial/temporal resolution, limited experimental control
+
+## [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)
+
+<div class="centered">
+<a href="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png">
+<img src="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png" height="500px"/>
+</a>
+</div>
+
+## ￼Stimulating the brain
+
+- Pharmacological
+- Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+- Magnetic (Transcranial magnetic stimulation - *TMS*)
+- Optically (optogenetics)
+
+## tDCS {.smaller}
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/images/nn.3422-F4.jpg" height="450px"/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## TMS {.smaller}
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/carousel/nn.3422-F1.jpg" height=450px/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G" frameborder="0" allowfullscreen></iframe>
+
+## Evaluating stimulation methods
+
+- Spatial/temporal resolution?
+    + Assume stimulation mimics natural activity?
+    + Optogenetic stimulation highly similar, others less so
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+## [Deep brain stimulation](https://en.wikipedia.org/wiki/Deep_brain_stimulation)
+
+<div class="centered">
+<a href="http://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies.shtml">
+<img src="http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/vns-200_60712_4.jpg" height=500px/>
+</a>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDjWdtDyz5I" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Effects of DBS for Parkinson's.
+</div>
+
+## ￼Simulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+---
+
+<div class="centered">
+<img src="http://cs231n.github.io/assets/cnn/convnet.jpeg" width=900px>
+</div>
+
+<div class="notes">
+Convolutional neural network.
+</div>
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+<!-- # Gross neuroanatomy -->
+
+<!-- --- -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg" height=550px/> -->
+<!-- </br> -->
+<!-- <https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/> -->
+<!-- </div> -->
+
+<!-- ## Brain anatomy through dance -->
+
+<!-- <div class="centered"> -->
+<!-- <audio controls> -->
+<!--   <source src="snd/brain_boxing.m4a" type="audio/mpeg"> -->
+<!--   Your browser does not support the audio tag. -->
+<!-- </audio> -->
+<!-- </div> -->
+
+<!-- ## Finding our way around -->
+
+<!-- ### Anterior/Posterior -->
+<!-- ### Medial/Lateral -->
+<!-- ### Superior/Inferior -->
+<!-- ### Dorsal/Ventral -->
+<!-- ### Rostral/Caudal -->
+
+<!-- ## Directional image {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png" height="400px"> -->
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png> -->
+<!-- </div> -->
+
+<!-- ## Bipeds vs. quadripeds {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px"> -->
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg> -->
+<!-- </div> -->
+
+<!-- ## No matter how you slice it -->
+
+<!-- ### Horizontal/Axial -->
+<!-- ### Coronal/Transverse/Frontal -->
+<!-- ### Sagittal (from the side) -->
+
+<!-- ## Slice diagram {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif"> -->
+
+<!-- <http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif> -->
+<!-- </div> -->
+
+<!-- ## Supporting structures -->
+
+<!-- ### Meninges -->
+<!-- ### Ventricular system -->
+<!-- ### Blood supply -->
+
+<!-- ## Meninges -->
+
+<!-- ### Dura mater ('tough mother') -->
+<!-- ### Arachnoid membrane -->
+<!-- ### Subarachnoid space -->
+<!-- ### Pia mater ('gentle mother') -->
+
+<!-- ## Meninges {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png" width="600px"> -->
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png> -->
+<!-- </div> -->
+
+<!-- ## Ventricular system {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png" width="800px"> -->
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png> -->
+<!-- </div> -->
+
+<!-- ## Ventricles -->
+
+<!-- ### Lateral (1st & 2nd) -->
+<!-- ### 3rd -->
+<!-- ### Cerebral aqueduct  -->
+<!-- ### 4th -->
+
+<!-- ## Ventricles -->
+
+<!-- - Filled with Cerebrospinal fluid (CSF) -->
+<!--     - Clears metabolites during sleep [@xie2013sleep]. -->
+
+<!-- ## Blood Supply {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="http://surgery.med.miami.edu/images/Circulation_of_brain.gif" height="500px"> -->
+
+<!-- <http://surgery.med.miami.edu/images/Circulation_of_brain.gif> -->
+<!-- </div> -->
+
+<!-- ## Blood Supply -->
+
+<!-- ### Arteries -->
+
+<!-- - Circle of Willis -->
+
+<!-- ### Blood/brain barrier -->
+
+<!-- - Cells forming blood vessel walls tightly packed -->
+<!-- - Active transport of molecules typically required -->
+
+<!-- ## Blood/brain barrier {.smaller} -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg"> -->
+
+<!-- <http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg> -->
+<!-- </div> -->
+
+<!-- ## Area Postrema {.smaller} -->
+
+<!-- - Brainstem, blood-brain barrier thin -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg" height="400px"> -->
+
+<!-- <http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg> -->
+<!-- </div> -->
+
+## Next time...
+
+- Brain anatomy (through song & dance)
+
+## References {.smaller}
