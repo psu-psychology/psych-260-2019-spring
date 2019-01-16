@@ -352,6 +352,8 @@ PET can be used to compare changes in brain metabolism at baseline, across tasks
 </a>
 </div>
 
+<!-- Got to here on 2019-01-15 -->
+
 ## ￼Stimulating the brain
 
 - Pharmacological

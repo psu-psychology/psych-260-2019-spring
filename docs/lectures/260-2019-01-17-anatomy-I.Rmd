@@ -1,0 +1,481 @@
+---
+title: "260-2019-01-17-anatomy-I"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude (2:01)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allowfullscreen></iframe>
+
+<!-- I'm your brain...part of the nervous system (song) -->
+
+## Today's topics
+
+- Warm-up
+- Wrap up on functional methods
+- Neuroanatomy
+    - Through song and dance
+
+# Warm-up    
+
+## Which of the following methods has *temporal* resolution on the order of seconds?
+
+- A. functional MRI
+- B. EEG
+- C. MEG
+- D. single-unit recording
+
+## Which of the following methods has *temporal* resolution on the order of seconds?
+
+- <span class="red">A. functional MRI</span>
+- B. ~~EEG~~
+- C. ~~MEG~~
+- D. ~~single-unit recording~~
+
+## Which of the following methods has high/fine *spatial* resolution?
+
+- A. functional MRI
+- B. PET
+- C. EEG
+- D. Optogenetic stimulation
+
+## Which of the following methods has high/fine *spatial* resolution?
+
+- A. ~~functional MRI~~
+- B. ~~PET~~
+- C. ~~EEG~~
+- D. <span class="red">Optogenetic stimulation</span>
+
+## Which measure(s) would you use to map connections between brain areas?
+
+- A. retrograde/anterograde cell tracers
+- B. diffusion tensor imaging (DTI)
+- C. PET neuroimaging
+- E. both A & B.
+
+## Which measure(s) would you use to measure connections between brain areas?
+
+- A. retrograde/anterograde cell tracers
+- B. diffusion tensor imaging (DTI)
+- C. ~~PET neuroimaging~~
+- E. <span class="red">both A & B.</span>
+
+# Wrap-up on functional methods
+
+## ￼Stimulating the brain
+
+- Pharmacological
+- Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+- Magnetic (Transcranial magnetic stimulation - *TMS*)
+- Optically (optogenetics)
+
+## tDCS {.smaller}
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/images/nn.3422-F4.jpg" height="450px"/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## TMS {.smaller}
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/carousel/nn.3422-F1.jpg" height=450px/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G" frameborder="0" allowfullscreen></iframe>
+
+## Evaluating stimulation methods
+
+- Spatial/temporal resolution?
+    + Assume stimulation mimics natural activity?
+    + Optogenetic stimulation highly similar, others less so
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+## [Deep brain stimulation](https://en.wikipedia.org/wiki/Deep_brain_stimulation)
+
+<div class="centered">
+<a href="http://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies.shtml">
+<img src="http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/vns-200_60712_4.jpg" height=500px/>
+</a>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDjWdtDyz5I" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Effects of DBS for Parkinson's.
+</div>
+
+## ￼Simulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+---
+
+<div class="centered">
+<img src="http://cs231n.github.io/assets/cnn/convnet.jpeg" height=480px>
+</div>
+
+<div class="notes">
+Convolutional neural network.
+</div>
+
+## Spatial and Temporal Resolution {.smaller}
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="700px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+# Neuroanatomy  
+
+## Brain anatomy through dance
+
+<div class="centered">
+<audio controls>
+  <source src="snd/brain_boxing-2.m4a" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+</div>
+
+## Finding our way around
+
+### **Anterior/Posterior**
+### **Medial/Lateral**
+### **Superior/Inferior**
+### **Dorsal/Ventral**
+### **Rostral/Caudal**
+
+## Directional image {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png" height="500px">
+</a>
+
+</div>
+
+## Bipeds vs. quadripeds {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px">
+</a>
+
+</div>
+
+## No matter how you slice it
+
+### **Horizontal/Axial**
+### **Coronal**/Transverse/Frontal
+### **Sagittal** (from the side)
+
+## Slice diagram {.smaller}
+
+<div class="centered">
+<a href="http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif">
+<img src="http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif" height=500px>
+</a>
+</div>
+
+## Supporting structures
+
+### **Meninges**
+### **Ventricular system**
+### Blood supply
+
+## Meninges
+
+### **Dura mater**
+### **Arachnoid membrane**
+### **Subarachnoid space**
+### **Pia mater**
+
+## Meninges {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png" width="700px">
+</a>
+</div>
+
+## Ventricular system {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png" width="800px">
+</a>
+</div>
+
+## Ventricles
+
+### **Lateral** (1st & 2nd)
+### **3rd**
+### **Cerebral aqueduct** 
+### **4th**
+### **Cerebrospinal fluid (CSF)**
+
+## Blood Supply {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png">
+<img src="http://surgery.med.miami.edu/images/Circulation_of_brain.gif" height="500px">
+</a>
+</div>
+
+## Blood Supply
+
+### Arteries
+
+- external & internal carotid; vertebral -> basilar
+- **Circle of Willis**
+- anterior, middle, & posterior cerebral
+
+## Blood/brain barrier
+
+- (endothelial) Cells forming blood vessel walls tightly packed
+- Isolates CNS from blood stream
+- Active transport of molecules typically required
+
+## Blood/brain barrier {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg">
+
+<http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg>
+</div>
+
+## **Area Postrema**
+
+- In brainstem
+- Blood-brain barrier thin
+- Detects toxins, evokes vomiting
+
+## Area Postrema {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg" height="400px">
+
+<http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg>
+</div>
+
+## Organization of the Nervous System
+
+### Central Nervous System (CNS)
+
+- Brain
+- Spinal Cord
+- Everything encased in bone
+
+### Peripheral Nervous System (PNS)
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| **Forebrain**  | Lateral              | Telencephalon      | **Cerebral cortex** |
+|                |                      |                    | **Basal ganglia**   |
+|                |                      |                    | **Hippocampus**, **amygdala** |
+|                | Third                | Diencephalon       | **Thalamus**        |
+|                |                      |                    | **Hypothalamus**    |
+| **Midbrain**   | Cerebral Aqueduct    | Mesencephalon      | **Tectum**, **Tegmentum** |
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| **Hindbrain**  | 4th                  | Rhombencephalon    | **Cerebellum, pons**  |
+|                | --                   |                    | **Medulla oblongata** |
+
+## Embryonic brain
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg" height=500px/>
+</a>
+</div>
+
+<!-- ## Embryonic brain -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1107px-EmbryonicBrain.svg.png" height=500px> -->
+<!-- </div> -->
+
+# Hindbrain
+
+### Structures adjacent to 4th ventricle
+
+- Medulla oblongata
+- Cerebellum
+- Pons
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png" height=500px>
+</div>
+
+## Medulla oblongata {.smaller}
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/6/69/1311_Brain_Stem.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/1311_Brain_Stem.jpg" height="500px">
+</a>
+</div>
+
+## Medulla
+
+- Cardiovascular regulation
+- Muscle tone
+- Fibers of passage
+- Cranial nerves VI-XII
+
+## [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+
+- “Little brain”
+- Dorsal to pons
+- Movement coordination, classical conditioning (associative learning), + ???
+
+----
+
+<a href="https://en.wikipedia.org/wiki/Cerebellum">
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Cerebellum_animation_small.gif" height=400px>
+</a>
+</div>
+
+## Pons
+
+- Bulge on brain stem
+- Neuromodulatory nuclei
+- Relay to cerebellum
+- Cranial nerve V
+
+## Midbrain {.smaller}
+
+<div class="centered">
+<a href="http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg">
+<img src="http://antranik.org/wp-content/uploads/2011/11/the-brain-stem-mid-brain-left-lateral-view-superior-colliculus-inferior-cerebellar-peduncle.jpg">
+</a>
+</div>
+
+## Midbrain components
+
+### Tectum
+### Tegmentum
+
+---
+
+<div class="centered">
+<img src="https://vignette.wikia.nocookie.net/brain-for-ai/images/b/bd/Tectum.png/revision/latest?cb=20170613125935" height=500px>
+</div>
+
+## Tectum
+
+- Tectum -> "roof"
+- *Superior colliculus* (reflexive orienting of eyes, head, ears)
+- *Inferior colliculus* (sound/auditory processing)
+
+## Tegmentum
+
+- Tegmentum -> "floor"
+- Species-typical movement sequences (e.g., cat: hissing, pouncing)
+- Cranial nerves III, IV
+- *Neuromodulatory nuclei*
+    + *Dopamine (DA)*
+    + *Norepinephrine (NE)*
+    + *Serotonin (5-HT)*
+    
+## Forebrain {.smaller}
+
+<div class="centered">
+<a href="http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png">
+<img src="http://classconnection.s3.amazonaws.com/252/flashcards/1048252/png/forebrain1328987872235.png" height = "450px">
+</a>
+</div>
+
+## Forebrain Components
+
+### Diencephalon
+### Telencephalon
+
+## Diencephalon ("between" brain) {.smaller} 
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg" height="400px">
+</a>
+</div>
+
+## Diencephalon components
+
+- Thalamus
+- Hypothalamus
+
+## Thalamus {.smaller}
+
+<div class="centered">
+<a href="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231">
+<img src="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231" height=500px>
+</a>
+</div>
+
+## Thalamus functions
+
+- Input to cortex
+- Functionally distinct *nuclei* (collection of neurons)
+    - *Lateral geniculate nucleus (LGN)*, vision
+    - *Medial geniculate nucleus (MGN)*, audition
+    - + others...
+
+## Hypothalamus
+
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
+- Controls *autonomic nervous system (ANS)*
+- Controls pituitary gland (“master” gland)
+    + *Anterior pituitary* (indirect release of hormones)
+    + *Posterior* (direct release of hormones)
+        - *Oxytocin*
+	      - *Vasopressin*
+
+## Hypothalamus {.smaller}
+
+<div class="centered">
+<a href="http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg">
+<img src="http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg" width="800px">
+</a>
+</div>
+
+## Next time...
+
+- More neuroanatomy...
+
+## References {.smaller}

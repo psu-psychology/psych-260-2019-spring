@@ -54,8 +54,8 @@ title: "Schedule"
     - Neuroanatomy I
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-01-17-anatomy-I.html) |
 
 ---
 
