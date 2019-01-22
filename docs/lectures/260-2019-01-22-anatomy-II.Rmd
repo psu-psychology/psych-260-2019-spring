@@ -134,7 +134,8 @@ output:
 ## Hypothalamus
 
 - Five Fs: fighting, fleeing/freezing, feeding, and reproduction
-- Controls pituitary gland (“master” gland)
+- Controls *Autonomic Nervous System (ANS)*
+- Controls *endocrine system* via *pituitary gland* (“master” gland)
     + *Anterior pituitary* (indirect release of hormones)
     + *Posterior* (direct release of hormones)
         - *Oxytocin*
@@ -354,6 +355,14 @@ Rotating image of cranial bones.
     - Anterior to central sulcus
     - Superior to lateral fissure
     - Dorsal to temporal lobe
+    
+---
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px">
+</a>
+</div>
 
 ## Frontal lobe 
 
@@ -414,6 +423,14 @@ Image of pre and post-central gyri from Wikipedia.
     - Ventral to frontal, parietal lobes
     - Inferior to lateral fissure
 
+---
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px">
+</a>
+</div>
+
 ## Temporal lobe
 
 - What does it do/contain?
@@ -449,6 +466,14 @@ Image of pre and post-central gyri from Wikipedia.
     - Caudal to frontal lobe
     - Dorsal to temporal lobe
     - Posterior to central sulcus
+
+---
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px">
+</a>
+</div>
 
 ## Parietal lobe
 
@@ -497,6 +522,14 @@ Image of pre and post-central gyri from Wikipedia.
     - Caudal to parietal & temporal lobes
 - What does it do/contain?
     - Primary visual cortex (V1)
+
+---
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px">
+</a>
+</div>
 
 ## Visual Cortex
 

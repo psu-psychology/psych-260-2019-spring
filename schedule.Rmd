@@ -73,8 +73,10 @@ title: "Schedule"
 ### Thursday, January 24
 
 - Topics
-    - Neuroanatomy III
     - **Quiz 1**
+    - Neuroanatomy III
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-01-24-anatomy-III.html) |
 
 ---
 

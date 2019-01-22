@@ -1,0 +1,179 @@
+---
+title: "260-2019-01-24-anatomy-III"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Today's topics
+
+- Quiz 1
+- Wrap up on neuroanatomy
+
+# Quiz 1
+
+# Wrap up neuroanatomy
+    
+## Brodmann Areas
+
+- [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
+- Cytoarchitectonic differences in cerebral cortex
+
+<div class="centered">
+<a href="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg">
+<img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" height="400px"/>
+</a>
+</div>
+
+## Brodmann Areas
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png" width=800px>
+</a>
+</div>
+
+## Brodmann Areas
+
+<div class="centered">
+<a href="http://www.brain-maps.com/gehirn/brodmann_areale.jpg">
+<img src="http://www.brain-maps.com/gehirn/brodmann_areale.jpg" height=450px/>
+</a>
+</div>
+
+## Spinal cord
+
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 nerve pairs 
+    - *Cauda equina*, horse-tail like extension of axon fibers
+
+## Spinal cord
+
+<div class="centered">
+<a href="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg">
+<img src="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg" height="500px">
+</a>
+</div>
+
+## Spinal cord
+
+- Organization of the spinal cord
+    - Dorsal/Ventral
+        + Dorsal root (sensory)
+        + Ventral root (mostly motor)
+    - Grey (interior) vs. white matter (exterior)
+    
+---
+
+<div class="centered">
+<img src="https://www.nap.edu/openbook/0309095859/xhtml/images/p2000d3bdg31001.jpg" height=500px>
+</div>
+
+<div class="notes">
+Spinal cord cross section diagram.
+</div>
+
+---
+
+<div class="centered">
+<img src="https://media1.britannica.com/eb-media/75/2975-004-7891D6AA.jpg" height=550px>
+</div>
+
+<div class="notes">
+Spinal cord cross section.
+</div>
+
+## Organization of the PNS 
+
+- Somatic division
+- Autonomic division
+
+- Cranial nerves
+- Spinal nerves
+
+## Cranial nerves
+
+- Afferents (input), efferents (output), or mixed
+- Innervate head and neck
+- Olfactory (I), optic (II), (VIII) auditory,
+vagus (X), etc. 
+- Spinal nerves
+
+## Cranial nerves
+
+<div class="centered">
+<a href="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg">
+<img src="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg" height="500px">
+</a>
+</div>
+
+## Autonomic Nervous System (ANS)
+
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + *Sympathetic*
+    + *Parasympathetic* ('around' the sympathetic)
+		
+## ANS {.smaller}
+
+<div class="centered">
+<a href="http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif">
+<img src="http://humanphysiology.academy/Neurosciences%202015/Images/2/NEU_autonomic_nervous_system%20Merck%20Manuals.gif" height=450px>
+</a>
+</div>
+
+## Sympathetic division
+
+- Prepares body for action
+- "Fight or flight""
+- Spinal cord
+    + ganglion chain along spinal column to End organs
+- NTs
+    + Preganglionic: ACh 
+    + Post: NE
+
+## Parasympathetic division
+
+- Para -> "around"
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + NT: ACh
+    
+## Cajal/Swanson Architecture {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/swanson-fig-7.5.jpg" height=500px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-1.jpg" height=500px/>
+
+[Swanson, 2005](http://dx.doi.org/10.1002/cne.20733)
+</div>
+
+---
+
+<div class="centered">
+<img src="img/swanson-book-rat-human-cortex.jpg" height=500px/>
+</div>
+
+## Next time...
+
+- Cells of the nervous system
+
+## References {.smaller}
