@@ -67,8 +67,8 @@ title: "Schedule"
     - Neuroanatomy II
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/): 2:36-51.
-<!-- - Materials  -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-01-22-anatomy-II.html) |
 
 ### Thursday, January 24
 
