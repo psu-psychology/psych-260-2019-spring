@@ -90,8 +90,8 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/): 2:25-35.
     - Read [B&W](http://behavioralneuroscience8e.com/): 3:61-66.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-01-29-cells.html) |
 
 ### Thursday, January 31
 
