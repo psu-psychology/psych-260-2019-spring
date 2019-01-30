@@ -29,6 +29,7 @@ output:
 - Warm-up
 - Electrical communication in neurons
 - The action potential
+- Wherefore brains
 
 # Prelude
 
@@ -76,63 +77,6 @@ output:
 
 # Electrical communication in neurons
 
-<!-- ## Why brains? -->
-
-<!-- - [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli) -->
-<!-- - [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium) -->
-<!-- - [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) -->
-
-<!-- [Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20) -->
-
-<!-- ## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli) -->
-
-<!-- - Tiny, single-celled bacterium -->
-<!-- - Feeds on glucose -->
-<!-- - Chemo ("taste") receptors on surface membrane -->
-<!-- - Flagellum for movement -->
-<!-- - Food concentration regulates duration of "move" phase -->
-<!-- - ~4 ms for chemical signal to diffuse from anterior/posterior -->
-
-<!-- --- -->
-
-<!-- <div class="centered"> -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe> -->
-<!-- </div> -->
-
-<!-- ## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium) -->
-
-<!-- - 300K larger than E. Coli -->
-<!-- - Propulsion through coordinated beating of cilia -->
-<!-- - Diffusion from head to tail ~40 s! -->
-<!-- - Use electrical signaling instead -->
-<!--     - Na+ channel opens (e.g., when stretched) -->
-<!--     - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia -->
-<!--     - Signal across cell within ms -->
-
-<!-- ## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) -->
-
-<!-- - ~10x larger than paramecium -->
-<!-- - 302 neurons + 56 glial cells (out of 959) -->
-<!-- - Swim, forage, mate -->
-
-<!-- --- -->
-
-<!-- <div class="centered"> -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe> -->
-<!-- </div> -->
-
-<!-- <div class="notes"> -->
-<!-- C Elegans swimming. -->
-<!-- </div> -->
-
-<!-- ## Why brains? -->
-
-<!-- ## Why brains? -->
-
-<!-- - For neurons -->
-<!-- - Bigger bodies -->
-<!-- - Live longer -->
-<!-- - Do more, do it faster -->
 
 <!-- ## Neural communication -->
 
@@ -433,5 +377,63 @@ output:
 - Putting it all together
 - How action potentials propagate
 - Review for Exam 1
+
+# Wherefore brains?
+
+## Why brains?
+
+- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
+
+## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+
+- Tiny, single-celled bacterium
+- Feeds on glucose
+- Chemo ("taste") receptors on surface membrane
+- Flagellum for movement
+- Food concentration regulates duration of "move" phase
+- ~4 ms for chemical signal to diffuse from anterior/posterior
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+
+- 300K larger than E. Coli
+- Propulsion through coordinated beating of cilia
+- Diffusion from head to tail ~40 s!
+- Use electrical signaling instead
+    - Na+ channel opens (e.g., when stretched)
+    - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia
+    - Signal across cell within ms
+
+## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+- ~10x larger than paramecium
+- 302 neurons + 56 glial cells (out of 959)
+- Swim, forage, mate
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+C Elegans swimming.
+</div>
+
+## Why brains?
+
+- For neurons
+- Bigger bodies
+- Live longer
+- Do more, do it faster
 
 ## References {.smaller}
