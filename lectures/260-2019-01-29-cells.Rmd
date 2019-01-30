@@ -87,7 +87,7 @@ library(tidyverse)
 ##  3. Event-related potentials are detected using ___________; they measure ___________.
 
 - positron emission tomography (PET); local metabolic rates
-- magnetic resonance imaging (MRI); the integrity of white matter fiber tracts 
+- magnetic resonance imaging (MRI); the integrity of white matter fiber tracts
 - <span class="red">electroencephalography (EEG); the time-locked electrical activity of large number of neurons</span>
 - magnetoencephalography (MEG); average brain magnetic activity
 
@@ -101,7 +101,7 @@ library(tidyverse)
 ## 4. All of these structures are components of the midbrain EXCEPT:
 
 - Superior colliculus
-- <span class="red>3rd ventricle</span>
+- <span class="red">3rd ventricle</span>
 - Tegmentum
 - Inferior colliculus
 
