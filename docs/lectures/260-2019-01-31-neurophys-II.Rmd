@@ -26,12 +26,17 @@ output:
 ## Today's Topics
 
 - Exam 1 in-class next Thursday
+- Mind maps/concept maps
 - Warm-up
 - Electrical communication in neurons
 - The action potential
 - Wherefore brains
 
-# Prelude
+## A mind map/concept map
+
+[Neural communication](https://drive.google.com/file/d/1vhMtlCSGqhKQeTTYTH78Cu84o225lirc/view?usp=sharing)
+
+# Warm-up
 
 ## Which type of glial cell produces myelin for neurons in the CNS?
 
