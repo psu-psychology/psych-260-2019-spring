@@ -528,10 +528,12 @@ Microglia in red invading dentate gyrus.
 
 - Electrical
     + Fast(er)
+    + Metabolically costly
     + Within neurons
 - Chemical
     + Slow(er)
-    + Between neurons
+    + Metabolically cheap
+    + Between neurons, & brain <-> body (via hormones)
 
 ## How are messages generated?
 
