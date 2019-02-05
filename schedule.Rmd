@@ -95,13 +95,14 @@ title: "Schedule"
 
 ### Thursday, January 31
 
-- Topics
-    - Neurophysiology II
-- Assignments
-    - Read: [B&W](http://behavioralneuroscience8e.com/): 3:66-87.
-    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
- - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2019-01-31-neurophys-II.html) |
+**NO CLASS. UNIVERSITY CLOSURE**
+<!-- - Topics -->
+<!--     - Neurophysiology II -->
+<!-- - Assignments -->
+<!--     - Read: [B&W](http://behavioralneuroscience8e.com/): 3:66-87. -->
+<!--     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0> -->
+<!--  - Materials -->
+<!--     - Lecture notes. | [HTML slides](lectures/260-2019-01-31-neurophys-II.html) | -->
    
 ---
 
@@ -110,17 +111,33 @@ title: "Schedule"
 ### Tuesday, February 5
 
 - Topics
-    - Neurophysiology III
-    - Exam 1 Review
+    - Neurophysiology II
 - Assignments
-    <!-- - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69 -->
+    - Read: [B&W](http://behavioralneuroscience8e.com/): 3:66-87.
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
+ - Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-01-31-neurophys-II.html) |
+   
+<!-- - Topics -->
+<!--     - Neurophysiology III -->
+<!--     - Exam 1 Review -->
+<!-- - Assignments -->
+<!--     <!-- - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69 -->
  <!-- - Materials -->
  <!--    - Lecture notes. | [HTML slides]() | -->
 
 ### Thursday, February 7
 
 - Topics
-    - **Exam 1**.
+    - Neurophysiology III
+    - Exam 1 Review
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69
+- Materials
+   - Lecture notes. | [HTML slides]() |
+ 
+<!-- - Topics -->
+<!--     - **Exam 1**. -->
 
 ---
 
@@ -129,21 +146,30 @@ title: "Schedule"
 ### Tuesday, February 12
 
 - Topics
-    - Neurochemistry I
-- Assignments
-    -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85.
-    -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103.
+    - **Exam 1**.
+
+<!-- - Topics -->
+<!--     - Neurochemistry I -->
+<!-- - Assignments -->
+<!--     -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85. -->
+<!--     -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103. -->
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
 ### Thursday, February 14
 
 - Topics
-    - Neurochemistry II
-    - Hormones and the brain
+    - Neurochemistry I
 - Assignments
-    - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112.
-    - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155.
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85.
+    -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103.
+
+<!-- - Topics -->
+<!--     - Neurochemistry II -->
+<!--     - Hormones and the brain -->
+<!-- - Assignments -->
+<!--     - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112. -->
+<!--     - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155. -->
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
@@ -154,13 +180,39 @@ title: "Schedule"
 ### Tuesday, February 19
 
 - Topics
+    - Neurochemistry II
+    - Hormones and the brain
+- Assignments
+    - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112.
+    - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155.
+
+<!-- - Topics -->
+<!--     - **Quiz 2**.  -->
+<!--     - Exam 1 returned. -->
+<!--     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) | -->
+<!-- <!-- - Materials -->
+<!-- <!--     - Lecture notes. | [HTML slides]() | --> 
+
+### Thursday, February 21
+
+- Topics
     - **Quiz 2**. 
     - Exam 1 returned.
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
 
-### Thursday, February 21
+<!-- - Topics -->
+<!--     - Evolution of the human brain. -->
+<!-- - Assignments -->
+<!--     <!-- - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015). -->
+<!--     - Read [B&W](http://behavioralneuroscience8e.com/) 6:163-191. -->
+<!-- <!-- - Materials -->
+<!-- <!--     - Lecture notes. | [HTML slides]() | -->
+
+---
+    
+## Week 8, February 25 - March 1
+
+### Tuesday, February 26
 
 - Topics
     - Evolution of the human brain.
@@ -170,19 +222,13 @@ title: "Schedule"
 <!-- - Materials -->
 <!--     - Lecture notes. | [HTML slides]() | -->
 
----
-    
-## Week 8, February 25 - March 1
-
-### Tuesday, February 26
-
-- Topics
-    - Development of the brain
-    - Review for Exam 2
-- Assignments
-    - Read [B&W](http://behavioralneuroscience8e.com/) 7:193-210.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+<!-- - Topics -->
+<!--     - Development of the brain -->
+<!--     - Review for Exam 2 -->
+<!-- - Assignments -->
+<!--     - Read [B&W](http://behavioralneuroscience8e.com/) 7:193-210. -->
+<!-- <!-- - Materials -->
+<!-- <!--     - Lecture notes. | [HTML slides]() | -->
 
 ### Thursday, February 28
 
