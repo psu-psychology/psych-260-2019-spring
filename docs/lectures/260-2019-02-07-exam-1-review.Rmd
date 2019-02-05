@@ -1,0 +1,48 @@
+---
+title: "260-2019-02-07-exam-1-review"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Methods
+
+- [Spatial & temporal resolution](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-10-history-levels-methods.html#27)
+    - Spatial--microscope (high/fine resolution) vs. telescope (low/poor)
+    - Temporal--stopwatch (high/fine) vs. calendar (low/poor)
+- [Structural vs. functional](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-10-history-levels-methods.html#41)
+- Invasive vs. non-invasive
+- MRI ([structural](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-10-history-levels-methods.html#59), [diffusion tensor imaging-DTI](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-10-history-levels-methods.html#61), [functional MRI-fMRI](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-15-functional-methods.html#36)
+- [EEG](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-15-functional-methods.html#41), [MEG](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-15-functional-methods.html#48), & [ERP](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-15-functional-methods.html#45)
+- [Stimulation (chemical, electrical, magnetic, optical)](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-15-functional-methods.html#52)
+
+## Neuroanatomy
+
+- [Directions](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-17-anatomy-I.html#24) & [slices](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-17-anatomy-I.html#27)
+- [Hindbrain, midbrain, forebrain & ventricular landmarks](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-17-anatomy-I.html#41)
+- [Meninges](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-17-anatomy-I.html#30)
+- [Lobes of the cerebral cortex](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-22-anatomy-II.html#37) & [components](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-22-anatomy-II.html#68)
+- [Fissures & sulci](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#30)
+
+## Neuroanatomy
+
+- [CNS vs. PNS](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-17-anatomy-I.html#40)
+- [Autonomic vs. somatic](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-22-anatomy-II.html#79)
+- [Sympathetic vs. parasympathetic](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-22-anatomy-II.html#82)
+
+## Cellular neuroscience
+
+- [Glia](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-29-cells.html#41)
+- [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-29-cells.html#53)
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-29-cells.html#74)
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
+- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-31-neurophys-II.html#38)

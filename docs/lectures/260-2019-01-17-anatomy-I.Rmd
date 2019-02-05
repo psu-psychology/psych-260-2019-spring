@@ -168,11 +168,11 @@ Convolutional neural network.
 
 ## Finding our way around
 
-### **Anterior/Posterior**
-### **Medial/Lateral**
-### **Superior/Inferior**
-### **Dorsal/Ventral**
-### **Rostral/Caudal**
+### *Anterior/Posterior*
+### *Medial/Lateral*
+### *Superior/Inferior*
+### *Dorsal/Ventral*
+### *Rostral/Caudal*
 
 ## Directional image {.smaller}
 
@@ -194,9 +194,9 @@ Convolutional neural network.
 
 ## No matter how you slice it
 
-### **Horizontal/Axial**
-### **Coronal**/Transverse/Frontal
-### **Sagittal** (from the side)
+### *Horizontal/Axial*
+### *Coronal*/Transverse/Frontal
+### *Sagittal* (from the side)
 
 ## Slice diagram {.smaller}
 
@@ -208,16 +208,16 @@ Convolutional neural network.
 
 ## Supporting structures
 
-### **Meninges**
-### **Ventricular system**
+### *Meninges*
+### *Ventricular system*
 ### Blood supply
 
 ## Meninges
 
-### **Dura mater**
-### **Arachnoid membrane**
-### **Subarachnoid space**
-### **Pia mater**
+### *Dura mater*
+### *Arachnoid membrane*
+### *Subarachnoid space*
+### *Pia mater*
 
 ## Meninges {.smaller}
 
@@ -237,11 +237,11 @@ Convolutional neural network.
 
 ## Ventricles
 
-### **Lateral** (1st & 2nd)
-### **3rd**
-### **Cerebral aqueduct** 
-### **4th**
-### **Cerebrospinal fluid (CSF)**
+### *Lateral* (1st & 2nd)
+### *3rd*
+### *Cerebral aqueduct* 
+### *4th*
+### *Cerebrospinal fluid (CSF)*
 
 ## Blood Supply {.smaller}
 
@@ -256,7 +256,7 @@ Convolutional neural network.
 ### Arteries
 
 - external & internal carotid; vertebral -> basilar
-- **Circle of Willis**
+- *Circle of Willis*
 - anterior, middle, & posterior cerebral
 
 ## Blood/brain barrier
@@ -273,7 +273,7 @@ Convolutional neural network.
 <http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg>
 </div>
 
-## **Area Postrema**
+## *Area Postrema*
 
 - In brainstem
 - Blood-brain barrier thin
@@ -301,19 +301,19 @@ Convolutional neural network.
 
 | Major division | Ventricular Landmark | Embryonic Division | Structure       |
 |----------------|----------------------|--------------------|-----------------|
-| **Forebrain**  | Lateral              | Telencephalon      | **Cerebral cortex** |
-|                |                      |                    | **Basal ganglia**   |
-|                |                      |                    | **Hippocampus**, **amygdala** |
-|                | Third                | Diencephalon       | **Thalamus**        |
-|                |                      |                    | **Hypothalamus**    |
-| **Midbrain**   | Cerebral Aqueduct    | Mesencephalon      | **Tectum**, **Tegmentum** |
+| *Forebrain*  | Lateral              | Telencephalon      | *Cerebral cortex* |
+|                |                      |                    | *Basal ganglia*   |
+|                |                      |                    | *Hippocampus*, *amygdala* |
+|                | Third                | Diencephalon       | *Thalamus*        |
+|                |                      |                    | *Hypothalamus*    |
+| *Midbrain*   | Cerebral Aqueduct    | Mesencephalon      | *Tectum*, *Tegmentum* |
 
 ## Organization of the brain
 
 | Major division | Ventricular Landmark | Embryonic Division | Structure         |
 |----------------|----------------------|--------------------|-------------------|
-| **Hindbrain**  | 4th                  | Rhombencephalon    | **Cerebellum, pons**  |
-|                | --                   |                    | **Medulla oblongata** |
+| *Hindbrain*  | 4th                  | Rhombencephalon    | *Cerebellum, pons*  |
+|                | --                   |                    | *Medulla oblongata* |
 
 ## Embryonic brain
 
@@ -329,7 +329,7 @@ Convolutional neural network.
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1107px-EmbryonicBrain.svg.png" height=500px> -->
 <!-- </div> -->
 
-# Hindbrain
+## Hindbrain
 
 ### Structures adjacent to 4th ventricle
 

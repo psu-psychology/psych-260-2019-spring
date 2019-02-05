@@ -134,7 +134,8 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 3:59-69
 - Materials
-   - Lecture notes. | [HTML slides]() |
+   - Lecture notes. | [HTML slides](lectures/260-2019-02-07-neurophys-III.html) |
+   - [Study guide](lectures/260-2019-02-07-exam-1-review.html)
  
 <!-- - Topics -->
 <!--     - **Exam 1**. -->
