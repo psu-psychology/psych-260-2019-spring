@@ -15,70 +15,14 @@ output:
 
 ## Today's Topics
 
-- Wherefore brains?
 - Another take on the resting and action potentials
 - Action potential propagation
+- (if time) Wherefore brains?
 - [Review](260-2019-02-07-exam-1-review.html) for Exam 1
 
-# Wherefore brains?
+# Another take...
 
-## Why brains?
-
-- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
-- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
-- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
-
-[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
-
-## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
-
-- Tiny, single-celled bacterium
-- Feeds on glucose
-- Chemo ("taste") receptors on surface membrane
-- Flagellum for movement
-- Food concentration regulates duration of "move" phase
-- ~4 ms for chemical signal to diffuse from anterior/posterior
-
----
-
-<div class="centered">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
-
-- 300K larger than E. Coli
-- Propulsion through coordinated beating of cilia
-- Diffusion from head to tail ~40 s!
-- Use electrical signaling instead
-    - Na+ channel opens (e.g., when stretched)
-    - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia
-    - Signal across cell within ms
-
-## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
-
-- ~10x larger than paramecium
-- 302 neurons + 56 glial cells (out of 959)
-- Swim, forage, mate
-
----
-
-<div class="centered">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="notes">
-C Elegans swimming.
-</div>
-
-## Why brains?
-
-- For neurons
-- Bigger bodies (need to send specific info)
-- Live longer
-- Do more, do it faster
-
-## The Hodgkin-Huxley (HH) model {.smaller}
+## The Hodgkin-Huxley (HH) model {.smaller .flexbox .vcenter}
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Hodgkin-Huxley.svg#/media/File:Hodgkin-Huxley.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/1200px-Hodgkin-Huxley.svg.png" height="500px" alt="Hodgkin-Huxley.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Krishnavedala" title="User:Krishnavedala">Krishnavedala</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21725464">Link</a></p>
 
@@ -107,9 +51,10 @@ C Elegans swimming.
 
 ## Equilibrium potential
 
-- $K^+$ flows out through passive/leak channels; most remains near membrane
+- $K^+$ flows out through passive/leak channels
+- Most $K^+$ remains near membrane
 - Separation from $A^-$ creates charge $\frac{K+K+K+K+K+}{A-A-A-A-A-}$ along capacitor-like membrane
-- $V_m$ --> $V_{K^+}$
+- $V_m$ (membrane potential) --> $V_{K^+}$
 
 ## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
 
@@ -139,14 +84,21 @@ C Elegans swimming.
     - Membrane more permeable to $K^+$ than $Na^+$, $p_{K+}> p_{Na^+}$ 
     - Outward flow of $K^+$ > inward flow of $Na^+$ 
     - Resting potential (~-70 mV) closer to $Ve_{K}$ (-90 mV) than $Ve_{Na}$ (+55 mV)
+
+## Resting potential
+
 - Goldman-Hodgkin-Katz equation
     - $V_m = \frac{RT}{F}ln(\frac{p_{K}[K^+]_{out}+p_{Na}[Na^+]_{out}}{p_{K}[K^+]_{in}+p_{Na}[Na^+]_{in}})$
 
 ## "Driving force" and equilibrium potential
 
 - "Driving Force" on a given ion depends on difference between
-    - Equilibrium potential for given ion
-    - Membrane potential = effects of all ions
+    - Equilibrium potential for given ion **AND**
+    - Neuron's current membrane potential ($V_m$)
+    - $V_m$ reflects combined effects of all ions
+
+## "Driving force" and equilibrium potential
+
 - Anthropomorphic metaphor
     - $K^+$ "wants" to flow out (hyperpolarize neuron)
     - $Na^+$ "wants" to flow in (depolarize neuron)
@@ -264,8 +216,8 @@ C Elegans swimming.
 
 - Voltage-gated $Na^+$ closed, but ready to open
 - Voltage-gated $K^+$ channels closed, but ready to open
-- Membrane potential at rest
-- $Na^2$/$K^2$ pump still working...
+- Membrane potential $V_m$ at rest (~60-75 mV)
+- $Na^+$/$K^+$ pump still working...
 
 ---
 
@@ -370,22 +322,22 @@ C Elegans swimming.
 ## AP propagation
 
 - Myelinated axon
-    + AP "jumps" between Nodes of Ranvier, *saltatory conduction*
+    + AP "jumps" between *Nodes of Ranvier* via *saltatory conduction*
     + Nodes of Ranvier == unmyelinated sections of axon
-    + voltage-gated Na+, K+ channels exposed
+    + voltage-gated $Na^+$, $K_+$ channels exposed
     + Current flows through myelinated segments
     
 ## Question
 
 - Why does AP flow in one direction, away from soma?
-    + Soma does not have (many) voltage-gated Na+ channels.
+    + Soma does not have (many) voltage-gated $Na^+$ channels.
     + Soma is not myelinated.
     + Refractory periods mean polarization only in one direction.
     
 ## Question
 
 - Why does AP flow in one direction, away from soma?
-    + **Soma does not have (many) voltage-gated Na+ channels.**
+    + **Soma does not have (many) voltage-gated $Na^+$ channels.**
     + Soma is not myelinated.
     + **Refractory periods mean polarization only in one direction.**
 
@@ -416,6 +368,66 @@ slides > slide:not(.nobackground):after {
     + $V_{K^+}$ & $V_{Na^+}$ don't vary much
 - AP frequency and timing vary
     + Rate vs. timing codes
+    + Neurons use both
+    
+# Wherefore brains?
+
+## Why brains?
+
+- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
+
+## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+
+- Tiny, single-celled bacterium
+- Feeds on glucose
+- Chemo ("taste") receptors on surface membrane
+- Flagellum for movement
+- Food concentration regulates duration of "move" phase
+- ~4 ms for chemical signal to diffuse from anterior/posterior
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+
+- 300K larger than E. Coli
+- Propulsion through coordinated beating of cilia
+- Diffusion from head to tail ~40 s!
+- Use electrical signaling instead
+    - Na+ channel opens (e.g., when stretched)
+    - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia
+    - Voltage propagates across cell within ms
+
+## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+- ~10x larger than paramecium
+- multi-cellular ($n$=959)
+- $n=302$ are neurons & $n=56$ are glia
+- Can swim, forage, mate
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+C Elegans swimming.
+</div>
+
+## Why brains?
+
+- Bigger bodies (need to send specific info)
+- For neurons (point to point communication)
+- Live longer
+- Do more, do it faster
 
 ## Next time…
 
