@@ -147,7 +147,7 @@ title: "Schedule"
 ### Tuesday, February 12
 
 - Topics
-    - **Exam 1**.
+    - ~~**Exam 1**~~.
 
 <!-- - Topics -->
 <!--     - Neurochemistry I -->
@@ -164,6 +164,8 @@ title: "Schedule"
 - Assignments
     -  Read [B&W](http://behavioralneuroscience8e.com/) 3:79-85.
     -  Read [B&W](http://behavioralneuroscience8e.com/) 4:95-103.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-02-14-neurochem-I.html) |
 
 <!-- - Topics -->
 <!--     - Neurochemistry II -->
@@ -197,10 +199,9 @@ title: "Schedule"
 ### Thursday, February 21
 
 - Topics
+    - Wrap-up on neurochemistry
     - **Quiz 2**. 
-    - Exam 1 returned.
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
-
 <!-- - Topics -->
 <!--     - Evolution of the human brain. -->
 <!-- - Assignments -->
