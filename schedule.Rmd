@@ -188,6 +188,8 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 4:101-112.
     - Read [B&W](http://behavioralneuroscience8e.com/) 5:131-137; 5:143-155.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-02-19-neurochem-II.html) |
 
 <!-- - Topics -->
 <!--     - **Quiz 2**.  -->
@@ -202,6 +204,8 @@ title: "Schedule"
     - Wrap-up on neurochemistry
     - **Quiz 2**. 
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+
+
 <!-- - Topics -->
 <!--     - Evolution of the human brain. -->
 <!-- - Assignments -->

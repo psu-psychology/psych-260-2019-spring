@@ -1,0 +1,431 @@
+---
+title: "260-2019-02-19-neurochem-II"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+<!-- Neurochemistry II -->
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/NZR64EF3OpA" frameborder="0" allowfullscreen></iframe>
+
+<!-- ## Prelude {.smaller} -->
+
+<!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe> -->
+
+<!-- <https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà> -->
+
+## Today's Topics
+
+- Warm-up
+- Neurotransmitters
+- Hormones
+
+# Warm-up
+
+## The influx of which ion triggers the release of neurotransmitters from the axon terminal?
+
+- Na+
+- K+
+- Ca++
+- Cl-
+
+## The influx of which ion triggers the release of neurotransmitters from the axon terminal?
+
+- Na+
+- K+
+- <span class="red">Ca++</span>
+- Cl-
+
+## This type of postsynaptic receptor does **NOT** contain its own ion channel.
+
+- Ionotropic
+- Metabotropic
+- Ligand-gated
+
+## This type of postsynaptic receptor does **NOT** contain its own ion channel.
+
+- Ionotropic
+- <span class="red">Metabotropic</span>
+- Ligand-gated
+
+## Which neurotransmitter is released at the largest number of synapses in the CNS?
+
+- Glutamate
+- GABA
+- Acetylcholine
+- Dopamine
+
+## Which neurotransmitter is released at the largest number of synapses in the CNS?
+
+- <span class="red">Glutamate</span>
+- GABA
+- Acetylcholine
+- Dopamine
+
+# More on neurotransmitters
+
+## Monoamine neurotransmitters
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | **Dopamine (DA)**                           |
+|             | **Norepinephrine (NE)/Noradrenaline (NAd)** |
+|             | **Epinephrine (Epi)/Adrenaline (Ad)**       |
+|             | **Serotonin (5-HT)**                        |
+|             | **Melatonin**                               |
+|             | **Histamine**                               |
+
+## Monoamine Song
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
+
+## Monoamine Song
+
+￼Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+￼Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## Monoamine neurotransmitters
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | **Dopamine (DA)**                           |
+|             | **Norepinephrine (NE)/Noradrenaline (NAd)** |
+|             | **Epinephrine (Epi)/Adrenaline (Ad)**       |
+|             | **Serotonin (5-HT)**                        |
+|             | **Melatonin**                               |
+|             | **Histamine**                               |
+
+## Dopamine (DA)
+
+- Released by two pathways
+    + Substantia nigra -> striatum, *meso-striatal projection*
+    + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+    
+## DA pathways
+
+<div class="centered">
+<a href="https://commons.wikimedia.org/wiki/File:Dopaminergic_pathways.svg#/media/File:Dopaminergic_pathways.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1200px-Dopaminergic_pathways.svg.png" alt="Dopaminergic pathways.svg" height=500px>
+</a>
+</div>
+
+## DA Disruption linked to
+
+- Parkinson's Disease (mesostriatal)
+    + DA agonists treat (agonists facilitate/increase transmission)
+- ADHD (mesolimbocortical)
+- Schizophrenia (mesolimbocortical)
+    + DA antagonists treat
+- Addiction (mesolimbocortical)
+
+## DA Inactivated by {.smaller}
+
+- Dopamine transporter (DAT) and chemical breakdown
+    
+<http://www.scholarpedia.org/article/Dopamine_anatomy#Dopamine_receptors>
+    
+## Dopamine receptors
+
+| Type         | Receptor             | Comments                      |
+|--------------|----------------------|-------------------------------|
+| Metabotropic | *D1-like (D1 and D5)*  | more prevalent                |
+|              | *D2-like (D2, D3, D4)* | target of many antipsychotics (drugs that treat schizophrenia symptoms) |
+
+## Norepinephrine (NE)
+
+- Released by 
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
+    + postganglionic sympathetic neurons onto target tissues
+- Role in arousal, mood, eating, sexual behavior
+
+## NE and monoamine oxidase
+
+- Monoamine oxidase inactivates monoamines in neurons, astrocytes
+- <span class="red>Monoamine oxidase inhibitors (MAOIs)</span> *increase* NE, DA
+    + Inhibiting inactivation ~ `-(-1) = + 1`
+- Treatment for depression, but have side effects
+    
+## NE Anatomy
+
+<div class="centered">
+<a href="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=450px>
+</a>
+</div>
+
+## NE receptors
+
+| Type         | Receptor             | Comments                           |
+|--------------|----------------------|------------------------------------|
+| Metabotropic | $\alpha$ (1,2)       | antagonists treat anxiety, panic   |
+|              | $\beta$ (1,2,3)      | 'beta blockers' in cardiac disease |
+
+## Serotonin (5-HT)
+
+- Released by *raphe nuclei* in brainstem
+- Role in mood, sleep, eating, pain, nausea, cognition, memory
+- Modulates release of other NTs
+- Most of body's 5-HT regulates digestion
+    - Enteric nervous system
+
+## 5-HT anatomy
+
+<div class="centered">
+<a href="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=450px>
+</a>
+</div>
+
+## 5-HT receptors
+
+- Seven families (5-HT 1-7) with 14 types
+- All but one metabotropic
+
+## 5-HT clinical significance
+
+- Ecstasy (MDMA) disturbs serotonin
+- So does LSD
+- Fluoxetine (Prozac)
+    + *Selective Serotonin Reuptake Inhibitor (SSRI)*
+    + Inhibits reuptake -> increases extracellular concentration
+    + Treats depression, panic, eating disorders, others
+- 5-HT3 receptor antagonists are anti-mimetics used in treating nausea
+
+## Melatonin
+
+- Released by pineal gland into bloodstream
+
+<div class="centered">
+<a href="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg">
+<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg">
+</a>
+</div>
+
+## Pineal gland
+
+<div class="centered">
+<p><a href="https://commons.wikimedia.org/wiki/File:Pineal_gland.gif#/media/File:Pineal_gland.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Pineal_gland.gif" alt="Pineal gland.gif" height=450px></a><br>By Images are generated by Life Science Databases(LSDB). - from Anatomography, website maintained by Life Science Databases(LSDB).
+You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できます
+<a rel="nofollow" class="external text" href="http://lifesciencedb.jp/ag/edit?lng=jp&amp;tp_ap=08020601%3aIF18000006000600FFFFFF1NANANANANANANANANANANANA006060%7cFMA50801%3aNANANANANANANANANAS010S%7cFMA79876%3aNANANANANANANANANAS100S%7cFMA62033%3aFF0000NANANANANANAS100S%7cFMA62001%3aNANANANANANANANANAS100S%7cFMA71325%3aFFFFFFNANANANANANAS020S%7cFMA269582%3aFFFFFFNANANANANANAS020S%7cFMA269584%3aFFFFFFNANANANANANAS020S%7cFMA75351%3aNANANANANANANANANAS000S">URL</a>., <a href="http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en" title="Creative Commons Attribution-Share Alike 2.1 jp">CC BY-SA 2.1 jp</a>, https://commons.wikimedia.org/w/index.php?curid=7855244</p>
+</div>
+
+## Histamine
+
+- In brain, released by hypothalamus, projects to whole brain
+    + Metabotropic receptors
+    + Role in arousal/sleep regulation
+- In body, part of immune response
+
+## Other NTs
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulate appetite, arousal
+    
+## Other NTs
+
+- Neuropeptides (continued)
+    + *Cholecystokinin (CCK)* stimulates digestion
+    + *Oxytocin* and *vasopressin* released by posterior hypothalamus onto posterior pituitary, regulate social behavior
+    
+## Chemical vs. non-chemical communication
+
+## Non-chemical communication between neurons
+
+- Gap junctions
+- Electrical coupling
+- Connect cytoplasm directly
+- Fast, but fixed, hard to modulate
+- Examples, retina, cardiac muscle
+
+## Gap junctions
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/2000px-Gap_cell_junction-en.svg.png" height=500px>
+</a>
+</div>
+
+## Ways to think about synaptic communication
+
+- Specificity: point-to-point vs. broadcast
+- Direct vs. modulatory
+- Agonists vs. antagonists
+
+## Agonists vs. Antagonists
+
+- *Agonists* 
+    + bind to receptor
+    + mimic action of endogenous chemical
+- *Antagonists*
+    + bind to receptor
+    + block/impede action of endogenous chemical
+    
+## Valium is a GABA-A receptor agonist. This means:
+
+- It decreases inhibition
+- It activates a metabotropic Cl- channel 
+- It facilitates/increases inhibition
+- It blocks an ionotropic channel
+
+## Valium is a GABA-A receptor agonist. This means:
+
+1. It decreases inhibition
+2. It activates a metabotropic Cl- channel
+3. <span class="red">It facilitates/increases inhibition</span>
+4. It blocks an ionotropic channel
+
+# Hormones
+
+## Types of chemical communication
+
+- *Neurocrine*
+    + ￼Sending cell -> Receiving cell
+- *Autocrine*
+    + Sending cell -> itself
+    + e.g., presynaptic autoreceptors
+- *Paracrine*
+    + Sending cell -> neighboring cells
+    + NO and CO NTs
+    
+## Types of chemical communication
+
+- *Endocrine*
+    + Sending cell -> many cells elsewhere in body
+- *Pheromone*
+    + Sending cell -> other animals of same species
+- *Allomone*
+    + Sending cell -> cells in other species
+    
+## Hormones
+
+- Chemical secreted into blood
+- Act on specific target tissues
+- Produce specific effects
+
+## Can a substance be a hormone AND a neurotransmitter?
+
+- Yes, why not?
+- No, absolutely not.
+
+## Can a substance be a hormone AND a neurotransmitter?
+
+- <span class="red">Yes, why not?</span>
+- No, absolutely not.
+
+## Examples of substances that are both hormones and neurotransmitters
+
+- Melatonin
+- Epinephrine/adrenaline
+- Oxytocin
+- Vasopressin
+    
+## Behaviors under hormonal influence
+
+<div class="centered">
+<a href="https://yourkidstable.com/wp-content/uploads/2017/12/graphicstock-close-up-of-cute-little-girl-in-the-kitchen-sitting-in-high-chair-eating-watermelon_r_bBNYOUfb-768x511.jpg">
+<img src="https://yourkidstable.com/wp-content/uploads/2017/12/graphicstock-close-up-of-cute-little-girl-in-the-kitchen-sitting-in-high-chair-eating-watermelon_r_bBNYOUfb-768x511.jpg" height=450px>
+</a>
+</div>
+
+<!-- Baby eating watermellon -->
+
+## Behaviors under hormonal influence
+
+- Ingestive (eating/ drinking)
+    + ￼Fluid levels
+    + Na, K, Ca levels 
+    + Digestion
+    + Blood glucose levels
+    
+## Behaviors under hormonal influence
+
+<div class="centered">
+<img src="http://2.bp.blogspot.com/-LziO1SbCVbU/UeqmTPOCJiI/AAAAAAAACUI/u7mCG4vlf_U/s1600/reprodution.JPG+51.jpg" height=450px>
+</div>
+
+<div class="notes">
+Snails mating.
+</div>
+
+## Behaviors under hormonal influence
+
+- Reproduction
+    + Sexual Maturation
+    + Mating
+    + Birth
+    + Care giving
+    
+## Behaviors under hormonal influence
+
+<div class="centered">
+<a href="http://www.howitworksdaily.com/wp-content/uploads/2012/07/dreamstime_s_14557293.jpg">
+<img src="http://www.howitworksdaily.com/wp-content/uploads/2012/07/dreamstime_s_14557293.jpg" height=450px>
+</a>
+</div>
+
+## Behaviors under hormonal influence
+
+- ￼Responses to threat/ challenge
+    + Metabolism
+    + Heart rate, blood pressure 
+    + Digestion
+    + Arousal
+
+## What do these behaviors have in common?
+
+- Biological imperatives
+- Events are proscribed in space and time
+- Foraging/hunting
+    + Find targets distributed in space, evaluate, act upon
+- Often involve others
+
+## Differences between neural and hormonal communication
+
+- Point to point vs.“broadcast”
+    + Wider broadcast than neuromodulators
+- Fast vs. slow-acting
+- Short-acting vs. long-acting
+- Digital (yes-no) vs. analog (graded) 
+- Voluntary control vs. involuntary
+
+## Similarities between neural and hormonal communication
+
+- Chemical messengers stored for later release 
+- Release follows stimulation
+- Action depends on specific receptors
+- 2nd messenger systems common
+
+## Next time...
+
+- Wrap-up on hormones
+- Quiz 2
+
+## References {.smaller}
