@@ -204,6 +204,8 @@ title: "Schedule"
     - Wrap-up on neurochemistry
     - **Quiz 2**. 
     - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-02-21-hormones.html) |
 
 
 <!-- - Topics -->
