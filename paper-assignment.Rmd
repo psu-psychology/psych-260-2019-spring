@@ -5,7 +5,7 @@ title: "Paper Assignment"
 ## Format, due date
 
 - **3-5 pages double-spaced**, worth 15 points
-- Due **Monday, November 27 at 5:00 pm**.
+- Due **Tuesday, April 16 at 5:00 pm**.
 
 ## Assignment
 
@@ -32,4 +32,4 @@ You may use your textbook or other reference materials as additional resources. 
 
 - Always use page numbers.
 - Make sure that your essay has introductory and concluding paragraphs.
-- Save your paper with a file name in this format: `PSYCH260.002_paper_Gilmore_R.docx`, substituting your last name and first initial for mine.
+- Save your paper with a file name in this format: `PSYCH260.001_paper_Gilmore_R.docx`, substituting your last name and first initial for mine.
