@@ -26,33 +26,34 @@ output:
 
 ## Neurophysiology
 
-- [Resting potential -- what & why]()
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-29-cells.html#87) and [this](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-31-neurophys-II.html#35)
     - $[K^+]$ story (where concentrated, direction of flow)
     + $[Na^+]$ story (where concentrated, direction of flow)
-- [Action potential and propagation -- how & why]()
-- [Steps leading to neurotransmitter release]()
+    - [Summary](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-07-neurophys-III.html#6)
+- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-01-31-neurophys-II.html#38)
+- [Steps leading to neurotransmitter release](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#6) and [this summary figure](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#26)
 
 ## Neurochemistry
 
 - Neurotransmitter types
-    - [Amino acids](), especially Glutamate and GABA
-    - [Acetylcholine]()
-    - [Monoamines]()
+    - [Amino acids](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#27), especially [Glutamate](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#28) and [GABA](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#30)
+    - [Acetylcholine](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#33)
+    - [Monoamines](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-19-neurochem-II.html#12)
 
 ## Neurochemistry
 
 - Anatomy (where released) and function
-- Receptor types: [ionotropic vs. metabotropic]()
-- [Inactivation mechanisms & rationale]()
-- [EPSPs & IPSPs]()
+- Receptor types: [ionotropic vs. metabotropic](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#12)
+- [Inactivation mechanisms & rationale](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#16)
+- [EPSPs & IPSPs](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-14-neurochem-I.html#15)
 
-## [Hormones]()
+## [Hormones](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-19-neurochem-II.html#46)
 
-- [Behaviors under hormonal influence]()
-- [Anatomy: Where released]()
-- [Direct (posterior pituitary) vs. indirect (anterior) release]()
-- [Responses to threat/challenge]()
-- [Milk letdown reflex]()
+- [Behaviors under hormonal influence](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-19-neurochem-II.html#50)
+- [Anatomy: Where released](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#16)
+- [Direct (posterior pituitary) vs. indirect (anterior) release](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#20)
+- [Responses to threat/challenge](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#26)
+- [Milk letdown reflex](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#30)
 
 ## Brain evolution
 
