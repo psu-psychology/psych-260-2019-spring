@@ -227,9 +227,9 @@ title: "Schedule"
 - Assignments
     <!-- - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015). -->
     - Read [B&W](http://behavioralneuroscience8e.com/) 6:163-191.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
-
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-02-26-evolution.html) |
+    - Exam 2 [study guide](lectures/260-2019-02-26-exam-2-review.html)
 <!-- - Topics -->
 <!--     - Development of the brain -->
 <!--     - Review for Exam 2 -->
