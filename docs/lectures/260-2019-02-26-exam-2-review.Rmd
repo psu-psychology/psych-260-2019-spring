@@ -16,12 +16,13 @@ output:
 ## Neuroanatomy
 
 - [Hindbrain, midbrain, forebrain & ventricular landmarks]()
+- Major fissures/sulci, gyri 
 - [Autonomic vs. somatic]()
 - [Sympathetic vs. parasympathetic]() nervous system
 
 ## Cellular neuroscience
 
-- [Glia]()
+- [Glial types]()
 - [Neuronal anatomy]()
 
 ## Neurophysiology
@@ -50,6 +51,7 @@ output:
 ## [Hormones](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-19-neurochem-II.html#46)
 
 - [Behaviors under hormonal influence](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-19-neurochem-II.html#50)
+    - HPA axis, SAM axis
 - [Anatomy: Where released](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#16)
 - [Direct (posterior pituitary) vs. indirect (anterior) release](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#20)
 - [Responses to threat/challenge](https://psu-psychology.github.io/psych-260-2019-spring/lectures/260-2019-02-21-hormones.html#26)
