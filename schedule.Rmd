@@ -259,8 +259,8 @@ title: "Schedule"
     - Psychopathology I: Depression & Bipolar disorder
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 16:514-523.
-<!-- - Materials -->
-<!--     - Lecture notes. -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-12-depression-bipolar.html) |
     
 ### Thursday, March 14
 
@@ -268,7 +268,7 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 16:499-514.
 <!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+<!--     - Lecture notes. | [HTML slides](lectures/260-2019-02-26-exam-2-review.html) | -->
 
 ---
 
