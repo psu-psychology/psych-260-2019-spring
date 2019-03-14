@@ -1,0 +1,428 @@
+---
+title: "260-2019-03-14-schizophrenia"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography_511.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-2GmzyeeXnQ" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Bipolar disorder
+- Schizophrenia
+
+## Major affective (emotional) disorders
+
+- Types
+    + Depression
+    + Anxiety
+    + Bipolar disorder
+- Heritability
+    + *proportion of variance in trait accounted for by genetic factors*
+    + Monozygotic: .69
+    + Dizygotic: .13
+
+<!-- ## Up/Down Documentary -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eyiZfzbgaW4" frameborder="0" allowfullscreen></iframe> -->
+
+## Bipolar disorder
+
+- Formerly “manic depression” or “manic depressive disorder
+- Alternating mood states
+    + Mania or hypomania (milder form)
+    + Depression
+- Cycles 3-6 mos in length, but
+    + Rapid cycling (weeks or days)
+- Suicide risk 20-60x normal population, [[@baldessarini_suicide_2006]](http://dx.doi.org/10.1017/S1092852900014681) 
+
+## Symptoms {.smaller}
+
+<div class="centered">
+<img src="img/nih-bipolar-table.jpg" height=450px>
+
+<http://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml>
+</div>
+
+## Prevalence, subtypes
+
+- 1-3% prevalence, subthreshold affects another 2%
+- Subtypes
+    + **Bipolar I**: manic episodes, possible depressive ones
+    + **Bipolar II**: no manic episodes but hypomania (disinhibition, irritability/agitation) + depression
+
+## Related symptoms
+
+- Psychosis (hallucinations or delusions)
+- Anxiety, attention-deficit hyperactivity disorder (ADHD)
+- Substance abuse
+
+## Genetics
+
+- Overlap between bipolar disorder and schizophrenia
+- Genes for voltage-gated Ca++ channels
+    + Regulate NT, hormone release
+    + Gene expression, cell metabolism
+- [[@craddock_genetics_2013]](http://dx.doi.org/10.1016/S0140-6736(13)60855-7)
+
+## Brain responses to emotional faces ≠ depression
+
+<div class="centered">
+<img src="img/lawrence-1.jpg" height=450px>
+
+[[@lawrence_subcortical_2004]](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)
+</div>
+
+## [[@lawrence_subcortical_2004]](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)
+
+<div class="centered">
+<img src="img/lawrence-2.jpg" height=450px>
+</div>
+
+## [[@lawrence_subcortical_2004]](http://dx.doi.org/10.1016/j.biopsych.2003.11.017)
+
+<div class="centered">
+<img src="img/lawrence-3.jpg" height=450px>
+</div>
+
+## Amyg, Hip volume reduced; ventricles larger {.smaller}
+
+<div class="centered">
+<img src="img/hallahan-fig-1.jpg" height=450px>
+
+[[@hallahan_structural_2011]](http://dx.doi.org/10.1016/j.biopsych.2010.08.029)
+</div>
+
+## [[@hallahan_structural_2011]](http://dx.doi.org/10.1016/j.biopsych.2010.08.029)
+
+<div class="centered">
+<img src="img/hallahan-abstr.jpg" width=750px>
+</div>
+
+## Drug treatments
+
+- Mood stabilizers
+    + Lithium (Li)
+    + Valproate (Depakote)
+- Anticonvulsants
+    + GABA agonists
+    + Usually to treat epilepsy
+    + e.g. lamotrigine (Lamictal)
+- Atypical antipsychotics
+
+## Lithium "discovered" accidentally
+
+- Injections of manic patients' urine with lithium compound (chemical stabilizer) into guinea pig test animals
+- Had calming effect
+- [John Cade](https://en.wikipedia.org/wiki/John_Cade) discovered in 1948
+- Earliest effective medications for treating mental illness
+
+## Effects of Lithium
+
+- Reduces mania, minimal effects on depressive states
+- Preserves PFC, hip, amyg volume
+- downregulates DA, glu; upregulates GABA
+- modulates 5-HT, NE
+- *levels can be tested/monitored via blood test*
+- [[@malhi_potential_2013]](http://dx.doi.org/10.1007/s40263-013-0039-0)
+
+## Other treatment options
+
+- Psychotherapy
+- Electroconvulsive Therapy (ECT)
+- Sleep medications
+
+## Prospects
+
+- STEP-BD cohort (n=1469)
+    + 58% achieved recovery
+    + 49% had recurrences within 2 years
+    + Residual depressive symptoms can persist
+- [[@Geddes2013-hm]](http://doi.org/10.1016/S0140-6736(13)60857-0)
+
+## An Unquiet Mind
+
+<div class="centered">
+<img src="img/unquiet-mind.jpg" height=450px>
+</div>
+
+## BP summed-up
+
+- Changes in mood, but ≠ depression
+- Genetic + environmental risk
+- Changes in emotion processing network activity, size of hippocampus
+- Heterogeneous
+- No simple link to a specific NT system
+
+
+## Mental illness lifetime prevalence
+
+<div class="centered">
+<a href="">
+<img src="https://www.nimh.nih.gov/images/stats/nsduh-smi-2015-graph-020317_154208_1.png" height=450px>
+</a>
+</div>
+
+## Schizophrenia
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gGnl8dqEoPQ" frameborder="0" allowfullscreen></iframe>
+
+## Simulating the Experience
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YXimT5CHCDE" frameborder="0" allowfullscreen></iframe>
+
+## Overview
+
+- Lifetime prevalence ~ 1/100
+- ~1/3 chronic & severe
+- Onset post-puberty, early adulthood
+- Pervasive disturbance in mood, thinking, movement, action, memory, perception
+
+## Screening (Yale PRIME test)
+
+1. I think that I have felt that there are odd or unusual things going on that I can’t explain.
+2. I think that I might be able to predict the future.
+3. I may have felt that there could possibly be something interrupting or controlling my thoughts, feelings, or actions. 
+
+<http://www.schizophrenia.com/sztest/primetest.pdf>
+
+## Screening (continued)
+
+5. I get confused at times whether something I experience or perceive may be real or may be just part of my imagination or dreams. 
+6. I have thought that it might be possible that other people can read my mind, or that I can read other’s minds.
+7. I wonder if people may be planning to hurt me or even may be about to hurt me.
+
+## Historical background
+
+- Bleuler
+    + Coined term “schizophrenia” or “split mind”
+    + NOT multiple personality disorder
+- Kraeplin
+    + Dementia Praecox and Paraphrenia (1919)
+    + Emphasized developmental and hereditary origins
+
+## "Positive" symptoms
+
+- “Additions” to behavior
+- Disordered thought
+- Delusions of grandeur, persecution
+- Hallucinations (usually auditory)
+- Bizarre behavior
+
+## "Negative" symptoms
+
+- “Reductions” in behavior
+- Poverty of speech
+- Flat affect
+- Social withdrawal
+- Impaired executive function
+- Anhedonia (loss of pleasure)
+- Catatonia (reduced movement)
+
+## Cognitive symptoms
+
+- Memory
+- Attention
+- Planning, decision-making
+- Social cognition
+- Movement
+
+## Biological bases
+
+- Genetic disposition
+- Brain abnormalities
+- Developmental origins
+
+## Genetic disposition
+
+<div class="centered">
+<img src="img/schizophrenia-risk.jpg" height=450px>
+</div>
+
+## But, no single gene...
+
+<div class="centered">
+<img src="img/johnson-etal-2017-schiz.jpg" width=800px>
+</div>
+
+## Genes associated with schizophrenia at higher than chance levels
+
+- *NOTCH4*, *TNF*: 
+    - Part of major histocompatibility complex (MHC), cell membrane specializations involved in the immune system
+- *DRD2* (dopamine D2 receptor), *KCNN3* (Ca+ activated K+ channel), *GRM3* (metabotropic glutatmate receptor)
+
+[[@Johnson2017-bp]](http://doi.org/10.1016/j.biopsych.2017.06.033)
+
+## Ventricles larger, esp in males
+
+<div class="centered">
+<img src="img/schizophrenia-ventricles.jpg" height=450px>
+</div>
+
+## Cause or effect? 
+
+<div class="centered">
+Ventricular enlargement increases across time [[@Kempton2010-ms]](http://doi.org/10.1016/j.schres.2010.03.036)
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr2_lrg.jpg" height=400px>
+</div>
+
+## Enlargement precedes diagnosis? {.smaller}
+
+<div class="centered">
+As in trajectories B or F
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0920996410012077-gr3_lrg.jpg" height=400px>
+
+[[@Kempton2010-ms]](http://doi.org/10.1016/j.schres.2010.03.036)
+</div>
+
+## Hip and amygdala smaller
+
+- Related to ventricular enlargement?
+- Early disturbance in brain development?
+
+---
+
+<div class="centered">
+<img src="https://images.nature.com/full/nature-assets/mp/journal/v21/n4/images/mp201563f1.jpg" height=450px>
+
+[[@Van_Erp2015-ne]](http://doi.org/10.1038/mp.2015.63)
+</div>
+
+## [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114)
+
+- Dentate gyrus (DG) in hippocampus critical for spatial coding, learning and memory, and emotion processing. 
+- DG dysfunction implicated in schizophrenia.
+- Gene linked to schizophrenia, Transmembrane protein 108 (Tmem108) enriched in DG granule neurons
+- Tmem108 expression increased during postnatal period critical for DG development.
+
+## [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114)
+
+- Tmem108-deficient neurons form fewer and smaller spines. 
+- Tmem108-deficient mice display schizophrenia-relevant behavioral deficits.
+
+## Rapid gray matter loss in adolescents? {.smaller}
+
+<div class="centered">
+<img src="img/thompson-2001-F2.large.jpg" height=450px>
+
+[[@thompson_mapping_2001]](http://dx.doi.org/10.1073/pnas.201243998)
+</div>
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+
+## Widespread disruption in white matter connectivity
+
+<div class="centered">
+<img src="https://media.nature.com/lw926/nature-assets/mp/journal/v23/n5/images/mp2017170f1.jpg"
+
+[[@Kelly2017-lj]](http://doi.org/10.1038/mp.2017.170)
+</div>
+
+## White matter loss over age
+
+<div class="centered">
+<img src="http://onlinelibrary.wiley.com/store/10.1002/hbm.23336/asset/image_m/hbm23336-fig-0002-m.png?v=1&t=j8ymjbry&s=2a1b0a9d2d65b8e76a2573d2838b286b6f0fa373" height=500px>
+
+[[@Kochunov2016-cu]](http://doi.org/10.1002/hbm.23336)
+</div>
+
+## Dopamine hypothesis
+
+<div class="centered">
+<img src="img/mesolimbocortical-da.jpg" height=450px>
+</div>
+
+## Evidence for DA hypothesis
+
+- DA (D2 receptor) antagonists (e.g. chlorpromazine)
+    + improve positive symptoms
+- *Typical antipsychotics* are DA D2 receptor antagonists
+- DA agonists
+    + amphetamine, cocaine, L-DOPA
+    + mimic or exacerbate symptoms
+    
+## Tardive Dyskinesia a side effect of DA antagonists
+
+<div class="centered">
+<video width="320" height="240" controls>
+  <source src="http://2e.mindsmachine.com/ch/12/av/mm2e_1203_tardive_dyskinesia.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<https://2e.mindsmachine.com/ch/12/av/mm2e_1203_tardive_dyskinesia.mp4>
+</div>
+
+## Evidence against...
+
+- New, *atypical antipsychotics* 
+    + (e.g. Clozapine) INCREASE DA in frontal cortex, affect 5-HT
+- Mixed evidence for high DA metabolite levels in CSF
+
+## Glutamate hypothesis
+
+- *Psychomimetic* drugs induce schizophrenia-like states
+    + Phencyclidine (PCP), ketamine
+    + NMDA receptor antagonists
+- Schizophrenia == *underactivation* of NMDA receptors?
+    - NMDA receptor role in learning, plasticity
+    - DG neurons in [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114) were glutamate-releasing.
+    
+## Early life stress increases risk
+
+- Urban vs. rural living
+- Exposure to infection *in utero*, other birth complications
+
+## [[@levine_transgenerational_2016]](10.1016/j.schres.2016.06.019)
+
+- Children (N=51,233) of parents who born during Nazi era (1922-1945)
+- Emigrated before (indirect exposure) or after (direct exposure) to Nazi era
+- Children exposed to direct stress of Nazi era *in utero* or postnatally
+    + Did **not** differ in rates of schizophrenia, but
+    + Had higher rehospitalization rates
+    
+## [[@debost_investigating_2015]](http://doi.org/10.1016/j.psyneuen.2015.05.013)
+
+- Danish cohort (n=1,141,447)
+- Exposure to early life stress 
+    + *in utero* did **not** increase risk of schizophrenia, but
+    + during infancy (0-2 years) increased risk
+- Increased risk associated with an allele of a cortisol-related gene
+   
+## Schizophrenia summed up
+
+- Wide-ranging disturbance of mood, thought, action, perception
+- Broad changes in brain structure, function, chemistry, development
+- ~~Dopamine hypothesis~~ giving way to glutamate hypothesis
+- Genetic (polygenic = multiple genes) risk + environmental factors
+- One disorder or many?
+
+## Next time...
+
+- Emotion, happiness, and reward
+
+## References {.smaller}

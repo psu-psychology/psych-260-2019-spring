@@ -267,8 +267,8 @@ title: "Schedule"
 - Psychopathology II: Schizophrenia.
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 16:499-514.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides](lectures/260-2019-02-26-exam-2-review.html) | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-14-schizophrenia.html) |
 
 ---
 
