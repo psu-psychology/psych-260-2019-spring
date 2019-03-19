@@ -282,8 +282,8 @@ title: "Schedule"
     - Fear & stress
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 15:467-485; 15:488-497.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-18-emotion.html) |
 
 ### Thursday, March 21
 

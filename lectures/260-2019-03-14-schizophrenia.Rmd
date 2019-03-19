@@ -169,7 +169,6 @@ output:
 - Heterogeneous
 - No simple link to a specific NT system
 
-
 ## Mental illness lifetime prevalence
 
 <div class="centered">
