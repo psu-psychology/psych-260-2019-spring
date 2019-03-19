@@ -13,9 +13,11 @@ output:
     latex_engine: xelatex
 ---
 
-## Happiness Is...
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d13_LoHQkRM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRUAzGQ3nSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2:25
 
 ## Don't You Worry 'Bout a Thing
 
