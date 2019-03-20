@@ -289,7 +289,7 @@ title: "Schedule"
 
 - Topics
     - **Quiz 3**.
-    - Exam 2 returned. | [HTML slides](lectures/260-2019-03-21-exam-20-discuss.html) |
+    - Exam 2 returned. | [HTML slides](lectures/260-2019-03-21-exam-2-discuss.html) |
 
 ---
 
