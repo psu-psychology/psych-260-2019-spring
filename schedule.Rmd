@@ -283,13 +283,13 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 15:467-485; 15:488-497.
 - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2019-03-18-emotion.html) |
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-19-emotion.html) |
 
 ### Thursday, March 21
 
 - Topics
     - **Quiz 3**.
-    - Exam 2 returned.
+    - Exam 2 returned. | [HTML slides](lectures/260-2019-03-21-exam-20-discuss.html) |
 
 ---
 
