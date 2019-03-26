@@ -21,7 +21,6 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tFN5DveQH0o" frameborder="0" allowfullscreen></iframe>
 
-
 ## Today's Topics
 
 - Sensory systems
@@ -40,6 +39,14 @@ output:
 <!-- <div class="centered"> -->
 <!-- <img src="img/from-perception-to-action.jpg" height=450px> -->
 <!-- </div> -->
+
+## Exam grading
+
+- Exam 1 points: 20 (everyone) + 10 (added to Quiz 2) + 10 (added to Exam 2)
+- Exam 2 points: 40
+- Exam 3 points: 40 (forthcoming)
+- Exam 4 points: 40 (forthcoming)
+- Count top 3 of 4.
 
 ## Systems/information processing view
 
