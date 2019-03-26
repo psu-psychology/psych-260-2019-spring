@@ -303,8 +303,8 @@ title: "Schedule"
     - Pain
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 8:229-262.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-26-sensation.html) |
 
 ### Thursday, March 28
 
