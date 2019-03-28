@@ -314,7 +314,7 @@ title: "Schedule"
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
     - Read [B&W](http://behavioralneuroscience8e.com/) 11:337-347.
 - Materials
-    - Lecture notes. | [HTML slides]() |
+    - Lecture notes. | [HTML slides](lectures/260-2019-03-28-action.html) |
    
 ---
 
