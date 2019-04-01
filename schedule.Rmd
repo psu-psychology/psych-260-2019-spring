@@ -326,8 +326,8 @@ title: "Schedule"
     - Action II
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 11:347-368.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-04-02-action-II.html) |
 
 ### Thursday, April 4
 
