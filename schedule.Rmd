@@ -334,8 +334,8 @@ title: "Schedule"
 - Vision
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 10:301-321.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-04-04-vision.html) |
 
 ---
 
