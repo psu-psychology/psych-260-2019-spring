@@ -348,6 +348,9 @@ title: "Schedule"
     - Review for Exam 3.
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 10:321-330.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-04-09-vision-II.html) |
+    - Exam 3 [study guide](lectures/260-2019-04-09-exam-3-review.html)
 
 ### Thursday, April 11
 

@@ -12,13 +12,13 @@ output:
     latex_engine: xelatex
 ---
 
-<!-- ## Traveling at Warp 1 -->
+## Traveling at Warp 1
 
-<!-- <https://vimeo.com/117815404> -->
+<https://vimeo.com/117815404>
 
-<!-- ## Prelude -->
+## Prelude
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FscIgtDJFXg" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FscIgtDJFXg" frameborder="0" allowfullscreen></iframe>
 
 ## Prelude
 
@@ -207,13 +207,13 @@ output:
 - *Retinal ganglion cells* pushed aside
 - Highest *acuity* vision == best for details
 
-## Acuity varies across fovea
+## Acuity varies across the retina
 
 <div class="centered">
 <img src="img/acuity-across-visual-field.jpg" height=450px>
 </div>
 
-## Acuity varies across fovea
+## Acuity varies across the retina
 
 <div class="centered">
 <img src="img/acuity-across-visual-field-graph.jpg" height=450px>
