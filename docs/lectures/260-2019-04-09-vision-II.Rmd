@@ -31,7 +31,7 @@ output:
 ## What property of electromagmentic radiation does our perception of color depend upon?
 
 - Intensity
-- <span class="red>Wavelength</span>
+- <span class="red">Wavelength</span>
 - Direction
 - Refraction
 
@@ -45,7 +45,7 @@ output:
 ## Why does Gilmore say the retina is physiologically backwards?
 
 - Light triggers action potentials from axon to dendrite
-- <span class="red>Light *hyperpolarizes* photoreceptors</span>
+- <span class="red">Light *hyperpolarizes* photoreceptors</span>
 - Light *depolarizes* photoreceptors
 - Night vision is the reverse of day vision
 
