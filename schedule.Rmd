@@ -370,8 +370,8 @@ title: "Schedule"
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 17:535-552.
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-04-16-memory.html) |
 
 ### Thursday, April 18
 
@@ -381,8 +381,8 @@ title: "Schedule"
     - Exam 3 returned.
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 17:552-565.
-<!-- - Materials -->
-<!--     - Lecture notes. | [HTML slides]() | -->
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2019-04-18-memory-II.html) |
 
 ---
 
