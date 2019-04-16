@@ -80,7 +80,7 @@ output:
 
 ## What is learning?
 
-- Q: Acquisition of new or change in existing knowledge, skills, ...
+- A: Acquisition of new or change in existing knowledge, skills, ...
 - **Non-associative**
     - $A(t+1) = f(A(t))$
     - Habituation ($\dot f < 0$), sensitization ($\dot f > 0$)

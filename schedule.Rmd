@@ -378,7 +378,7 @@ title: "Schedule"
 - Topics
     - Learning & memory II
     - **Quiz 4**.
-    - Exam 3 returned.
+    - Exam 3 returned. | [HTML slides](lectures/260-2019-04-18-exam-3-discuss.html) |
 - Assignments
     - Read [B&W](http://behavioralneuroscience8e.com/) 17:552-565.
 - Materials
