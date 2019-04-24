@@ -391,15 +391,18 @@ title: "Schedule"
 ### Tuesday, April 23
 
 - Topics
-    - Speed of nervous system conduction lab | [HTML](260-2019-04-23-speed-lab.html)
+    - Talk by Alyssa Boob
+    - Speed of nervous system conduction lab | [HTML](260-2019-04-23-speed-lab.html) |
 
 ### Thursday, April 25
 
 <!-- Courtney out -->
 
 - Topics
-    - The Cerebral Symphony
     - Review for Exam 4
+    - The Cerebral Symphony
+- Materials
+    - Exam 4 [study guide](lectures/260-2019-04-25-exam-4-study-guide.html)
 
 ---
     
