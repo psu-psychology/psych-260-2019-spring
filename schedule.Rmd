@@ -400,7 +400,7 @@ title: "Schedule"
 
 - Topics
     - Review for Exam 4
-    - The Cerebral Symphony
+    - [The Cerebral Symphony](lectures/260-2019-04-25-cerebral-symphony.html)
 - Materials
     - Exam 4 [study guide](lectures/260-2019-04-25-exam-4-study-guide.html)
 
